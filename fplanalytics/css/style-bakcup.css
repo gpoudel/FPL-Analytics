@@ -443,15 +443,9 @@ b i:last-child {
     color: #02894E !important;
 }
 
-/*GP: Added to randomize colors */
-b i:nth-child(4n-7) {
-    color: #00FF87 !important;
-}
-
-
 .box-intro h5 {
-    /*letter-spacing: 4px;*/
-    /*text-transform: uppercase;*/
+    letter-spacing: 4px;
+    text-transform: uppercase;
     color: #02894E;
     line-height: 1.7
 }
