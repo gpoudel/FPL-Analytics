@@ -1,5 +1,5 @@
 ## fplAnalytics
-This repo hosts my hobbiest website/blog www.fplanalytics.com, which is about data analysis and visualizations using official APIs of Fantasy Premier League (https://fantasy.premierleague.com/). Please note, currently all the files which build the website (HTML,CSS,Javascritps etc) reside in gh-pages. At later stage I plan to put my source codes in the main repo which are so far in R and Python (but could be anything else during further development).
+This repo hosts my hobbiest website/blog www.fplanalytics.com, which is about data analysis and visualizations using official APIs of Fantasy Premier League (https://fantasy.premierleague.com/). Please note, currently all the files which build the website (HTML,CSS,Javascritps,Json etc) reside in gh-pages. At later stage I plan to put my source codes in the main repo which are so far in R and Python (but could be anything else during further development).
 
 
 ## Intorduction
