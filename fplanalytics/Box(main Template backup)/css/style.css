@@ -36,9 +36,8 @@ html,
 body {
     height: 100%;
     font-family: 'Poppins', sans-serif;
-	/*GP fplOfficial: font-family: "PremierSans-Bold",Arial,"Helvetica Neue",Helvetica,sans-serif;*/
     line-height: 1.8;
-    color: #02894E
+    color: #999
 }
 
 .no-padding {
@@ -77,7 +76,7 @@ a {
 }
 
 .color {
-    color: #02894E;
+    color: #ffbf00;
     font-size: 11px;
 }
 
@@ -86,17 +85,17 @@ a {
 ==================================================*/
 
 h1 {
-    color: #242424;
+    color: #393939;
     font-size: 60px;
     text-transform: uppercase;
 }
 
 h3 {
-    color: #242424;
+    color: #393939;
 }
 
 h5 {
-    color: #02894E;
+    color: #ffbf00;
 }
 
 
@@ -138,7 +137,7 @@ h5 {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-color: #02894E;
+    background-color: #ffbf00;
     opacity: 0.6;
     position: absolute;
     top: 0;
@@ -240,7 +239,7 @@ h5 {
 }
 
 .box-primary-nav-trigger .box-menu-text {
-    color: #242424;
+    color: #393939;
     text-transform: uppercase;
     font-weight: 700;
     display: none;
@@ -257,7 +256,7 @@ h5 {
     transform: translateX(-50%) translateY(-50%);
     width: 18px;
     height: 2px;
-    background-color: #242424;
+    background-color: #393939;
     -webkit-transition: background-color 0.3s;
     transition: background-color 0.3s;
     list-style: none;
@@ -269,7 +268,7 @@ h5 {
     width: 100%;
     height: 100%;
     position: absolute;
-    background-color: #242424;
+    background-color: #393939;
     right: 0;
     -webkit-transition: -webkit-transform .3s, top .3s, background-color 0s;
     -webkit-transition: top .3s, background-color 0s, -webkit-transform .3s;
@@ -386,8 +385,8 @@ h5 {
 }
 
 .box-primary-nav .box-label {
-    color: #02894E;
-    text-transform: none;
+    color: #ffbf00;
+    text-transform: uppercase;
     font-weight: 700;
     font-size: 17px;
     margin: 2.4em 0 .8em;
@@ -425,7 +424,7 @@ h5 {
 .box-intro {
     text-align: center;
     display: table;
-    height: 45vh;  /*height: 100vh;*/
+    height: 100vh;
     width: 100%;
 }
 
@@ -440,19 +439,13 @@ h5 {
 }
 
 b i:last-child {
-    color: #02894E !important;
+    color: #ffbf00 !important;
 }
-
-/*GP: Added to randomize colors */
-b i:nth-child(4n-7) {
-    color: #00FF87 !important;
-}
-
 
 .box-intro h5 {
-    /*letter-spacing: 4px;*/
-    /*text-transform: uppercase;*/
-    color: #02894E;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #999;
     line-height: 1.7
 }
 
@@ -719,7 +712,7 @@ b i:nth-child(4n-7) {
 
 .portfolio .categories-grid .categories ul li a.active {
     margin-left: 0;
-    background-color: #02894E;
+    background-color: #ffbf00;
     padding: 0px 20px;
     color: white;
     border-radius: 25px;
@@ -776,7 +769,7 @@ b i:nth-child(4n-7) {
 .portfolio_item .portfolio_item_hover .item_info em {
     font-style: normal;
     display: inline-block;
-    background-color: #02894E;
+    background-color: #ffbf00;
     padding: 5px 20px;
     border-radius: 25px;
     color: #333;
@@ -886,7 +879,7 @@ footer img {
 
 .no-touch .cd-top:hover,
 .no-touch .cd-top:focus {
-    background-color: #02894E;
+    background-color: #ffbf00;
     opacity: 1;
     color: #fff;
 }
@@ -897,10 +890,9 @@ footer img {
 
 .top-bar {
     color: #333;
-    /*padding: 150px 0 150px;*/
-	/*padding: 20px 0 20px;*/
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)); /*, url(../img/01.png);*/
-    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)); /*, url(../img/01.png);*/
+    padding: 150px 0 150px;
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -908,16 +900,16 @@ footer img {
 }
 
 .top-bar h1 {
-    font-size: 45px;
-    text-transform: none;
+    font-size: 60px;
+    text-transform: uppercase;
     font-weight: 700;
-    color: #02894E;
+    color: #999;
     line-height: 50px;
 }
 
 .top-bar p {
     font-size: 15px;
-    text-transform: none;
+    text-transform: uppercase;
     font-weight: 500;
     color: #777;
 }
@@ -1049,7 +1041,7 @@ footer img {
 
 .input-contact > span.active,
 .textarea-contact > span.active {
-    color: #02894E;
+    color: #ffbf00;
     font-size: 10px;
     top: 0px;
     left: 5px;
@@ -1070,7 +1062,7 @@ textarea:focus {
     height: 30px;
     width: 30px;
     display: inline-block;
-    background: #02894E;
+    background: #ffbf00;
     text-align: center;
     line-height: 33px;
     margin-right: 10px;
@@ -1084,7 +1076,7 @@ textarea:focus {
 }
 
 .btn-box {
-    background: #02894E;
+    background: #ffbf00;
     padding: 10px 50px;
     border-radius: 0;
     color: #fff;
@@ -1111,7 +1103,7 @@ textarea:focus {
 
 .cat-ul li i {
     margin-right: 10px;
-    color: #02894E;
+    color: #ffbf00;
 }
 
 
