@@ -73,7 +73,7 @@ a {
 }
 
 .h-10 {
-    height: 10px
+    height: 10px; 
 }
 
 .color {
@@ -963,7 +963,7 @@ footer img {
 }
 
 .service-box {
-    margin-bottom: 30px;
+    margin-bottom: 30px; 
 }
 
 .service-box h3 {
