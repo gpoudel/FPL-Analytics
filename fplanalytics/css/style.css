@@ -742,7 +742,7 @@ b i:nth-child(4n-7) {
     left: 0px;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, .8);
+    background-color: rgba(2, 137, 78, .9);  /*GP: original was -->  rgba(0, 0, 0, .8), FPL Green --> rgba(2, 137, 78, .9) */
     -webkit-transform: translate(-100%);
     transform: translate(-100%);
     opacity: 0;
