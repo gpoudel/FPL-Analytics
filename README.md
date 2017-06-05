@@ -18,3 +18,6 @@ www.fplanalytics.com is a hobbiest website for the lovers of the Fantasy Premier
 * The scripts files are not here yet, so far the repo is only used to host HTML/Javascripts contents.
 * Plans to put the scripts (R, Python) used for automatic generation of web files at later 
 * Currently working slowly on a new look (mobile friendly) website, hopefully ready before next season (Work in Progress: https://gpoudel.github.io/gitFPL/fplanalytics/index.html).
+
+## 
+![Alt text](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/fpltwitter.png "Optional Title")
