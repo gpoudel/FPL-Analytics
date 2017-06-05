@@ -20,4 +20,4 @@ www.fplanalytics.com is a hobbiest website for the lovers of the Fantasy Premier
 * Currently working slowly on a new look (mobile friendly) website, hopefully ready before next season (Work in Progress: https://gpoudel.github.io/gitFPL/fplanalytics/index.html).
 
 ## 
-![Alt text](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/fpltwitter.png "Optional Title")
+![Alt text](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/fpltwitter.png "A wordcloud image created by mining twitter for term 'FPL'")
