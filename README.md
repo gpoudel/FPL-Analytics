@@ -6,6 +6,18 @@
 ## Intorduction
 www.fplanalytics.com is a hobbyist website for the lovers of the Fantasy Premier League (https://fantasy.premierleague.com/) - a fantasy football game based on English Premier League. It uses the official APIs from the site for data inputs and processes them for fantasy managers to analyze for greater insights. Other than daily updates of price rise/fall and injuries/suspensions/fitness of the players. There are many data tables, charts and visualizations to help the fantasy managers to make a better picks based on info and stats.
 
+## Description
+The main operations/tasks needed to build and keep this site alive are:
+* Gathering open data directly from official FPL website (https://fantasy.premierleague.com/)
+* Data Engineering (cleaning, formatting, storing, etc.)
+* Data Visualization and Publishing
+
+The FPL data set by nature is very dynamic – not only it changes during the weekends when most of the football is being played but also every moment as the participants of the game would trade players and manage their teams just like trading real stocks and managing stock portfolios all the time. Thus, the programming scripts (written in R) needed to handle constantly changing data and keep the website as updated as possible with minimum manual intervention.
+
+All the data gathering, engineering and visualization work in this project are done in **exclusively in R language**. I have used **Python** and tools like **Microsoft Power BI** and **Tableau** for my own analysis of data and logic building but those contents are not published to web.
+
+Currently I am slowly working towards a full-fledged website (with **HTML, CSS, Bootstrap and JavaScript**) which can already tested at: https://gpoudel.github.io/gitFPL/fplanalytics/index.html. This new version will give me more flexibility to implement more different types of contents than Google’s BlogSpot. The target for this new version to go live is before the start of new football season (August 2017).
+
 ## Examples
 Here are some of the examples from the main site (www.fplAnalytics.com)
 * [Player Status Table](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/PlayerStatus.html) (Interactive Data Table)
@@ -19,5 +31,5 @@ Here are some of the examples from the main site (www.fplAnalytics.com)
 * Currently working slowly on a new look (mobile friendly) website, hopefully ready before next season (Work in Progress: https://gpoudel.github.io/gitFPL/fplanalytics/index.html).
 
 ## Bonus
-![Alt text](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/fpltwitter.png "A wordcloud image created by mining twitter for term 'FPL'")
-A wordcloud image created by mining twitter for term 'FPL' 
+![Alt text](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/fpltwitter.png "A wordcloud image created in 'R' by mining twitter for term 'FPL'")
+A wordcloud image created in 'R' by mining twitter for term 'FPL' 
