@@ -20,4 +20,4 @@ Here are some of the examples from the main site (www.fplAnalytics.com)
 
 ## Bonus
 ![Alt text](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/fpltwitter.png "A wordcloud image created by mining twitter for term 'FPL'")
-A wordcloud image created by mining twitter for term 'FPL' 
+A wordcloud image created in 'R' by mining twitter for term 'FPL' 
