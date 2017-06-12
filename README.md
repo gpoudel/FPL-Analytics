@@ -14,7 +14,7 @@ The main operations/tasks needed to build and keep this site alive are:
 
 The FPL data set by nature is very dynamic – not only it changes during the weekends when most of the football is being played but also every moment as the participants of the game would trade players and manage their teams just like trading real stocks and managing stock portfolios all the time. Thus, the programming scripts (written in R) needed to handle constantly changing data and keep the website as updated as possible with minimum manual intervention.
 
-All the data gathering, engineering and visualization work in this project are done in **exclusively in R language**. I have used **Python** and tools like **Microsoft Power BI** and **Tableau** for my own analysis of data and logic building but those contents are not published to web.
+All the data gathering, engineering and visualization work in this project are done in **exclusively in R language**. I have used **Python** and tools like **Microsoft Power BI** and **Tableau** for my own analysis of data and logic building but those contents are not published to the web.
 
 Currently I am slowly working towards a full-fledged website (with **HTML, CSS, Bootstrap and JavaScript**) which can already tested at: https://gpoudel.github.io/gitFPL/fplanalytics/index.html. This new version will give me more flexibility to implement more different types of contents than Google’s BlogSpot. The target for this new version to go live is before the start of new football season (August 2017).
 
