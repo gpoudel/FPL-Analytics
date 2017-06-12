@@ -1,6 +1,6 @@
 
 # fplAnalytics
-**Please check the latest development (soon to be live) version of the website at this link https://gpoudel.github.io/gitFPL/fplanalytics/index.html**
+**Please check the latest development version of the website (built with R, HTML, CSS, Bootstrap and JavaScript) at this link: https://gpoudel.github.io/gitFPL/fplanalytics/index.html**
 
 
 ## Intorduction
