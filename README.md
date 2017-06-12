@@ -1,5 +1,7 @@
 
 # fplAnalytics
+**Please check the latest development (soon to be live) version of the website at this link https://gpoudel.github.io/gitFPL/fplanalytics/index.html**
+
 Data analysis and visualizations using official APIs of Fantasy Premier League (https://fantasy.premierleague.com/)
 
 
