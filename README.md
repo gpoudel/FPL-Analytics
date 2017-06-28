@@ -1,6 +1,10 @@
 
 # fplAnalytics
+<<<<<<< HEAD
 **Please check the latest development version of the website (built with R, HTML, CSS, Bootstrap and JavaScript) at this link: https://gpoudel.github.io/fplAnalytics/fplanalytics/index.html**
+=======
+**Please check the latest development version of the website (built with R, HTML, CSS, Bootstrap and JavaScript) at this link: https://gpoudel.github.io/gitFPL/fplanalytics/index.html**
+>>>>>>> refs/remotes/origin/master
 
 
 ## Intorduction
