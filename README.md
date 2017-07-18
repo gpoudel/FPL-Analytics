@@ -1,8 +1,6 @@
 
 # fplAnalytics
-
-**Please check the latest development version of the website (built with R, HTML, CSS, Bootstrap and JavaScript) at this link: https://gpoudel.github.io/gitFPL/fplanalytics/index.html**
-
+www.fplAnalytics.com
 
 
 ## Intorduction
@@ -18,7 +16,7 @@ The FPL data set by nature is very dynamic – not only it changes during the we
 
 All the data gathering, engineering and visualization work in this project are done in **exclusively in R language**. I have used **Python** and tools like **Microsoft Power BI** and **Tableau** for my own analysis of data and logic building but those contents are not published to the web.
 
-Currently I am slowly working towards a full-fledged website (with **HTML, CSS, Bootstrap and JavaScript**) which can already tested at: https://gpoudel.github.io/gitFPL/fplanalytics/index.html. This new version will give me more flexibility to implement more different types of contents than Google’s BlogSpot. The target for this new version to go live is before the start of new football season (August 2017).
+Other than mentioned above, the frontend is created with **HTML, CSS, Bootstrap and JavaScript**.
 
 ## Examples
 Here are some of the examples from the main site (www.fplAnalytics.com)
@@ -30,7 +28,6 @@ Here are some of the examples from the main site (www.fplAnalytics.com)
 ## Note
 * The scripts files are not here yet, so far the repo is only used to host HTML/Javascripts contents.
 * Plans to add the scripts (R, Python) used for automatic generation of web files to this repo at later stage
-* Currently working slowly on a new look (mobile friendly) website, hopefully ready before next season (Work in Progress: https://gpoudel.github.io/gitFPL/fplanalytics/index.html).
 
 ## Bonus
 ![Alt text](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/fpltwitter.png "A wordcloud image created in 'R' by mining twitter for term 'FPL'")
