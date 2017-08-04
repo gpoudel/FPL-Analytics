@@ -19,12 +19,23 @@ All the data gathering, engineering and visualization work in this project are d
 Other than mentioned above, the frontend is created using **HTML, CSS, Bootstrap and JavaScript**
 
 
+
 ## Examples
 Here are some of the examples from the main site (www.fplAnalytics.com)
 * [Player Status Table](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/PlayerStatus.html) (Interactive Data Table)
-* [Points distribution Treemap](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/playerPtsTreemap.html) (Multilayered interactive treemap)
 * [Transfer Anomaly detection](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/TransferAnomaly.html) (Interactive Data Viz.)
-* [Player's points per game per million cost](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/ptsPerGamePerMillViz.html) (Intreactive Bubble Chart)
+
+#### [Points distribution Treemap](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/playerPtsTreemap.html) (Multilayered interactive treemap)
+{::nomarkdown}
+<iframe class="embed-responsive-item" src="https://gpoudel.github.io/gitFPL/fplBoardLive/2016/playerPtsTreemap.html" width="1000" height="520"></iframe>	
+{:/}
+
+#### [Player's points per game per million cost](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/ptsPerGamePerMillViz.html) (Intreactive Bubble Chart)
+<iframe class="embed-responsive-item" src="https://gpoudel.github.io/gitFPL/fplBoardLive/2016/ptsPerGamePerMillViz.html" width="1200" height="600"></iframe>	
+
+## Note
+* The scripts files are not here yet, so far the repo is only used to host HTML/Javascripts contents.
+* Plans to add the scripts (R, Python) used for automatic generation of web files to this repo at later stage
 
 ## Note
 * The scripts files are not here yet, so far the repo is only used to host HTML/Javascripts contents.
