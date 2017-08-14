@@ -21,7 +21,7 @@
 "20";"Coquelin";4.5
 "21";"Iwobi";5.5
 "22";"Elneny";4.5
-"23";"Xhaka";5.5
+"23";"Xhaka";5.6
 "24";"Wilshere";5.5
 "25";"Giroud";8.5
 "26";"Welbeck";7.5
@@ -111,8 +111,8 @@
 "110";"Kenedy";5
 "111";"Kanté";5
 "112";"Chalobah";4.5
-"113";"Batshuayi";8.5
-"114";"Costa";10
+"113";"Batshuayi";8.4
+"114";"Costa";9.9
 "115";"Hennessey";4.5
 "116";"Speroni";4
 "117";"Tomkins";4.5
@@ -466,7 +466,7 @@
 "465";"Haidara";4
 "466";"de Jong";5
 "467";"Aarons";4.5
-"468";"Hegazi";4.5
+"468";"Hegazi";4.6
 "469";"Pope";4.5
 "470";"Christensen";5.5
 "471";"Musonda";5
@@ -508,3 +508,5 @@
 "507";"Harper";4.5
 "508";"Wilson";4
 "509";"Boga";6
+"510";"Rice";4.5
+"511";"Carter-Vickers";4.5
