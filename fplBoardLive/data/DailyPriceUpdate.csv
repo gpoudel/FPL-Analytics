@@ -69,7 +69,7 @@
 "68";"Norwood";4.5
 "69";"Murphy";5
 "70";"Groß";5.5
-"71";"Murray";6
+"71";"Murray";5.9
 "72";"Hemed";5
 "73";"Baldock";5
 "74";"Heaton";5
@@ -96,14 +96,14 @@
 "95";"Eduardo";5
 "96";"Caballero";5
 "97";"Azpilicueta";6.5
-"98";"Cahill";6.5
+"98";"Cahill";6.4
 "99";"Zouma";5.5
 "100";"Alonso";7
 "101";"David Luiz";6
 "102";"Moses";6.5
 "103";"Rüdiger";6
 "104";"Hazard";10.5
-"105";"Fàbregas";7
+"105";"Fàbregas";6.9
 "106";"Willian";7
 "107";"Matic";5
 "108";"Loftus-Cheek";4.5
@@ -224,7 +224,7 @@
 "223";"Alexander-Arnold";4.5
 "224";"Lucas";4.5
 "225";"Henderson";5.5
-"226";"Coutinho";9
+"226";"Coutinho";8.9
 "227";"Can";5
 "228";"Lallana";7.5
 "229";"Sheyi Ojo";5
@@ -266,7 +266,7 @@
 "265";"Shaw";5
 "266";"Rojo";5.5
 "267";"Valencia";6.5
-"268";"Darmian";5.5
+"268";"Darmian";5.4
 "269";"Fosu-Mensah";4.5
 "270";"Blind";5.5
 "271";"Bailly";6
@@ -324,7 +324,7 @@
 "323";"Sims";4.5
 "324";"Redmond";6.5
 "325";"Long";6
-"326";"Austin";6.5
+"326";"Austin";6.4
 "327";"Gabbiadini";7
 "328";"Butland";5
 "329";"Grant";4.5
@@ -433,7 +433,7 @@
 "432";"Phillips";6
 "433";"Field";4.5
 "434";"Brunt";5.5
-"435";"Rondón";6.5
+"435";"Rondón";6.4
 "436";"Robson-Kanu";5
 "437";"Rodriguez";6
 "438";"Adrián";4.5
