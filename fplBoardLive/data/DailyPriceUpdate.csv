@@ -119,7 +119,7 @@
 "118";"Dann";5
 "119";"Ward";5
 "120";"Kelly";4.4
-"121";"Delaney";4.5
+"121";"Delaney";4.4
 "122";"Souaré";4.5
 "123";"Schlupp";4.9
 "124";"van Aanholt";5.5
@@ -194,13 +194,13 @@
 "193";"Simpson";4.5
 "194";"Huth";5
 "195";"Benalouane";4.5
-"196";"Chilwell";4.5
+"196";"Chilwell";4.4
 "197";"Wagué";4.5
 "198";"Maguire";5
 "199";"Mahrez";8.5
 "200";"Albrighton";5.5
 "201";"King";4.5
-"202";"Drinkwater";5
+"202";"Drinkwater";4.9
 "203";"Gray";5.4
 "204";"Amartey";4.5
 "205";"Mendy";4.5
@@ -232,7 +232,7 @@
 "231";"Grujic";4.5
 "232";"Wijnaldum";7
 "233";"Woodburn";4.5
-"234";"Salah";9.1
+"234";"Salah";9
 "235";"Firmino";8.5
 "236";"Sturridge";8
 "237";"Ings";5.5
@@ -246,14 +246,14 @@
 "245";"Otamendi";5.5
 "246";"Delph";4.5
 "247";"Sterling";7.9
-"248";"David Silva";8
+"248";"David Silva";8.1
 "249";"Yaya Touré";6.4
 "250";"Fernandinho";5
 "251";"Fernando";4.5
 "252";"De Bruyne";10
 "253";"Gündogan";5.5
 "254";"Nolito";7
-"255";"Sané";8.4
+"255";"Sané";8.3
 "256";"Bernardo Silva";7.8
 "257";"Agüero";11.5
 "258";"Iheanacho";6.9
@@ -273,15 +273,15 @@
 "272";"Tuanzebe";4
 "273";"Lindelöf";5.3
 "274";"Mata";7
-"275";"Fellaini";5
+"275";"Fellaini";4.9
 "276";"Carrick";4.4
 "277";"Young";4.9
 "278";"Herrera";5.4
 "279";"Lingard";5.9
 "280";"Martial";8
 "281";"Mkhitaryan";8.2
-"282";"Pogba";8.1
-"283";"McTominay";4.5
+"282";"Pogba";8.2
+"283";"McTominay";4.4
 "284";"Rashford";7.5
 "285";"Lukaku";11.7
 "286";"Elliot";4
@@ -289,7 +289,7 @@
 "288";"Yedlin";4.5
 "289";"Clark";4.5
 "290";"Lascelles";4.5
-"291";"Dummett";4.5
+"291";"Dummett";4.4
 "292";"Hanley";4
 "293";"Gámez";4
 "294";"Lejeune";4.4
@@ -402,7 +402,7 @@
 "401";"Holebas";5
 "402";"Britos";4.5
 "403";"Kabasele";4.5
-"404";"Janmaat";5
+"404";"Janmaat";4.9
 "405";"Mariappa";4
 "406";"Mason";4
 "407";"Kiko Femenía";4.5
@@ -421,7 +421,7 @@
 "420";"Myhill";4
 "421";"Foster";4.5
 "422";"Nyom";5
-"423";"Evans";5
+"423";"Evans";4.9
 "424";"Dawson";5
 "425";"McAuley";5
 "426";"Livermore";5
@@ -517,3 +517,8 @@
 "516";"Saivet";4.5
 "517";"Izquierdo";6
 "518";"Wood";6.5
+"519";"Clucas";5
+"520";"Sánchez";6
+"521";"Hadergjonaj";4.5
+"522";"Sabiri";5
+"523";"Ibrahimovic";10
