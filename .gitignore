@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+fplBoardLive/data/top10000-Write.csv
+fplBoardLive/data/top10000_managers_df-Write.csv
+fplBoardLive/data/top10000_teams_df-Write.csv
+*.csv
+*.csv
