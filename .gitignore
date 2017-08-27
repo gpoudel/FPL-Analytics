@@ -50,3 +50,5 @@ fplBoardLive/data/top10000_managers_df-Write.csv
 fplBoardLive/data/top10000_teams_df-Write.csv
 *.csv
 *.csv
+fplBoardLive/data/DailyPriceUpdate.csv
+*.csv
