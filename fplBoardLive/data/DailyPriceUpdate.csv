@@ -14,7 +14,7 @@
 "13";"Kolasinac";6
 "14";"Sánchez";11.9
 "15";"Walcott";7.2
-"16";"Özil";9.5
+"16";"Özil";9.4
 "17";"Cazorla";7
 "18";"Ramsey";7
 "19";"Chamberlain";6
@@ -46,7 +46,7 @@
 "45";"Ibe";4.9
 "46";"Lewis Cook";4.4
 "47";"Fraser";5.4
-"48";"Callum Wilson";6
+"48";"Callum Wilson";5.9
 "49";"Afobe";5.8
 "50";"Mousset";4.9
 "51";"King";7.3
@@ -87,7 +87,7 @@
 "86";"Hendrick";5.4
 "87";"Brady";5.5
 "88";"Westwood";4.5
-"89";"Walters";5.4
+"89";"Walters";5.3
 "90";"Cork";4.5
 "91";"Vokes";6.1
 "92";"Gray";6.4
@@ -104,7 +104,7 @@
 "103";"Rüdiger";5.9
 "104";"Hazard";10.5
 "105";"Fàbregas";6.9
-"106";"Willian";7.1
+"106";"Willian";7
 "107";"Matic";5
 "108";"Loftus-Cheek";4.5
 "109";"Pedro";7.9
@@ -122,7 +122,7 @@
 "121";"Delaney";4.4
 "122";"Souaré";4.5
 "123";"Schlupp";4.8
-"124";"van Aanholt";5.4
+"124";"van Aanholt";5.3
 "125";"Puncheon";4.9
 "126";"Zaha";6.8
 "127";"McArthur";4.5
@@ -130,7 +130,7 @@
 "129";"Cabaye";5.5
 "130";"Sako";4.9
 "131";"Townsend";5.8
-"132";"Milivojevic";4.8
+"132";"Milivojevic";4.7
 "133";"Wickham";5.5
 "134";"Benteke";7.8
 "135";"Pickford";5
@@ -154,7 +154,7 @@
 "153";"Lennon";5.5
 "154";"Schneiderlin";5
 "155";"Gueye";5
-"156";"Davies";5.4
+"156";"Davies";5.3
 "157";"Lookman";5.3
 "158";"Klaassen";7.3
 "159";"Calvert-Lewin";5
@@ -172,7 +172,7 @@
 "171";"Zanka";4.6
 "172";"Mooy";5.7
 "173";"van La Parra";4.9
-"174";"Hogg";4.5
+"174";"Hogg";4.4
 "175";"Billing";4.5
 "176";"Lolley";4.4
 "177";"Payne";4.5
@@ -201,11 +201,11 @@
 "200";"Albrighton";5.5
 "201";"King";4.4
 "202";"Drinkwater";4.9
-"203";"Gray";5.4
+"203";"Gray";5.3
 "204";"Amartey";4.4
 "205";"Mendy";4.5
 "206";"Ndidi";5
-"207";"Musa";6.4
+"207";"Musa";6.3
 "208";"Iborra";5.8
 "209";"Vardy";8.5
 "210";"Ulloa";4.9
@@ -218,9 +218,9 @@
 "217";"Clyne";5.4
 "218";"Gomez";4.5
 "219";"Matip";5.5
-"220";"Klavan";4.5
+"220";"Klavan";4.4
 "221";"Sakho";4.9
-"222";"Milner";6.4
+"222";"Milner";6.3
 "223";"Alexander-Arnold";4.5
 "224";"Lucas";4.5
 "225";"Henderson";5.5
@@ -232,8 +232,8 @@
 "231";"Grujic";4.4
 "232";"Wijnaldum";6.9
 "233";"Woodburn";4.4
-"234";"Salah";9.1
-"235";"Firmino";8.6
+"234";"Salah";9.2
+"235";"Firmino";8.7
 "236";"Sturridge";8
 "237";"Ings";5.4
 "238";"Origi";7.4
@@ -242,7 +242,7 @@
 "241";"Bravo";4.9
 "242";"Stones";5.5
 "243";"Kolarov";5.5
-"244";"Kompany";6
+"244";"Kompany";5.9
 "245";"Otamendi";5.5
 "246";"Delph";4.5
 "247";"Sterling";7.8
@@ -257,7 +257,7 @@
 "256";"Bernardo Silva";7.7
 "257";"Agüero";11.4
 "258";"Iheanacho";6.8
-"259";"Jesus";10.4
+"259";"Jesus";10.5
 "260";"de Gea";5.5
 "261";"Romero";4.9
 "262";"Joel Pereira";3.9
@@ -271,7 +271,7 @@
 "270";"Blind";5.5
 "271";"Bailly";6.2
 "272";"Tuanzebe";3.9
-"273";"Lindelöf";5.1
+"273";"Lindelöf";5
 "274";"Mata";7
 "275";"Fellaini";4.9
 "276";"Carrick";4.4
@@ -313,9 +313,9 @@
 "312";"Pied";4.3
 "313";"Stephens";5
 "314";"McQueen";4.4
-"315";"Bednarek";4.4
+"315";"Bednarek";4.3
 "316";"Davis";5
-"317";"Ward-Prowse";5.4
+"317";"Ward-Prowse";5.3
 "318";"Tadic";6.5
 "319";"Clasie";4.4
 "320";"Oriol Romeu";4.5
@@ -325,7 +325,7 @@
 "324";"Redmond";6.5
 "325";"Long";5.8
 "326";"Austin";6.3
-"327";"Gabbiadini";7
+"327";"Gabbiadini";6.9
 "328";"Butland";5
 "329";"Grant";4.4
 "330";"Shawcross";5
@@ -367,7 +367,7 @@
 "366";"Dyer";4.5
 "367";"Carroll";4.5
 "368";"Barrow";5
-"369";"Narsingh";4.9
+"369";"Narsingh";4.8
 "370";"Mesa";4.4
 "371";"Llorente";7.4
 "372";"McBurnie";4.5
@@ -392,7 +392,7 @@
 "391";"Winks";4.9
 "392";"Nkoudou";5.4
 "393";"Sissoko";5.4
-"394";"Kane";12.4
+"394";"Kane";12.5
 "395";"Janssen";7.4
 "396";"Pantilimon";4.5
 "397";"Gomes";4.5
@@ -411,7 +411,7 @@
 "410";"Behrami";4.5
 "411";"Berghuis";5
 "412";"Amrabat";5
-"413";"Success";5.4
+"413";"Success";5.3
 "414";"Doucouré";5.2
 "415";"Pereyra";5.8
 "416";"Hughes";4.8
@@ -442,7 +442,7 @@
 "441";"Collins";4.4
 "442";"Reid";4.9
 "443";"Cresswell";5
-"444";"Ogbonna";4.5
+"444";"Ogbonna";4.4
 "445";"Byram";4.4
 "446";"Masuaku";4.4
 "447";"Zabaleta";4.9
@@ -460,7 +460,7 @@
 "459";"Fletcher";4.5
 "460";"Valencia";5
 "461";"Suttner";4.5
-"462";"Malone";4.4
+"462";"Malone";4.3
 "463";"Bakayoko";5
 "464";"Martina";4.3
 "465";"Haidara";4
