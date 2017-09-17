@@ -17,7 +17,7 @@
 "16";"Özil";9.4
 "17";"Cazorla";7
 "18";"Ramsey";7
-"19";"Chamberlain";6
+"19";"Chamberlain";5.9
 "20";"Coquelin";4.5
 "21";"Iwobi";5.2
 "22";"Elneny";4.5
@@ -132,7 +132,7 @@
 "131";"Townsend";5.8
 "132";"Milivojevic";4.7
 "133";"Wickham";5.5
-"134";"Benteke";7.8
+"134";"Benteke";7.7
 "135";"Pickford";5
 "136";"Robles";4.4
 "137";"Stekelenburg";4.4
@@ -180,7 +180,7 @@
 "179";"Bunn";4.5
 "180";"Scannell";4.5
 "181";"Kachunga";6
-"182";"Ince";6
+"182";"Ince";5.9
 "183";"Palmer";5.4
 "184";"Williams";4.9
 "185";"Wells";4.9
@@ -255,7 +255,7 @@
 "254";"Nolito";7
 "255";"Sané";8.2
 "256";"Bernardo Silva";7.7
-"257";"Agüero";11.4
+"257";"Agüero";11.5
 "258";"Iheanacho";6.8
 "259";"Jesus";10.5
 "260";"de Gea";5.5
@@ -289,7 +289,7 @@
 "288";"Yedlin";4.4
 "289";"Clark";4.5
 "290";"Lascelles";4.5
-"291";"Dummett";4.4
+"291";"Dummett";4.3
 "292";"Hanley";4
 "293";"Gámez";4
 "294";"Lejeune";4.4
@@ -336,7 +336,7 @@
 "335";"Johnson";4.3
 "336";"Tymon";4.5
 "337";"Allen";5.4
-"338";"Adam";4.9
+"338";"Adam";4.8
 "339";"Whelan";4.5
 "340";"Arnautovic";6.9
 "341";"Afellay";4.9
@@ -357,7 +357,7 @@
 "356";"van der Hoorn";4.5
 "357";"Mawson";5
 "358";"Olsson";5
-"359";"Sigurdsson";8.4
+"359";"Sigurdsson";8.3
 "360";"Routledge";5.4
 "361";"Britton";4.5
 "362";"Fulton";4.5
@@ -389,7 +389,7 @@
 "388";"Alli";9.5
 "389";"Wanyama";4.9
 "390";"Son";8
-"391";"Winks";4.9
+"391";"Winks";4.8
 "392";"Nkoudou";5.4
 "393";"Sissoko";5.4
 "394";"Kane";12.5
@@ -425,7 +425,7 @@
 "424";"Dawson";5
 "425";"McAuley";4.9
 "426";"Livermore";5
-"427";"Chadli";5.8
+"427";"Chadli";5.7
 "428";"Morrison";5.5
 "429";"Yacob";4.5
 "430";"McClean";5
@@ -485,7 +485,7 @@
 "484";"Mendy";6.5
 "485";"Bartley";4.4
 "486";"Watson";4.5
-"487";"Chicharito";7.1
+"487";"Chicharito";7
 "488";"Joselu";5.5
 "489";"Nelson";5
 "490";"Pröpper";5.5
@@ -496,7 +496,7 @@
 "495";"Merino";5
 "496";"Hayden";4.5
 "497";"Choupo-Moting";5.6
-"498";"Walker-Peters";4.4
+"498";"Walker-Peters";4.3
 "499";"Sinclair";5
 "500";"Lemina";5
 "501";"Richarlison";6
@@ -543,3 +543,4 @@
 "542";"Bony";6
 "543";"Zappacosta";6
 "544";"Lumeka";4.5
+"545";"Legzdins";4
