@@ -9,7 +9,7 @@
 "8";"Gibbs";5
 "9";"Jenkinson";4.5
 "10";"Monreal";5.4
-"11";"Holding";4.8
+"11";"Holding";4.7
 "12";"Mustafi";5.4
 "13";"Kolasinac";6
 "14";"Sánchez";11.9
@@ -19,14 +19,14 @@
 "18";"Ramsey";7
 "19";"Chamberlain";5.9
 "20";"Coquelin";4.5
-"21";"Iwobi";5.2
+"21";"Iwobi";5.1
 "22";"Elneny";4.5
 "23";"Xhaka";5.6
 "24";"Wilshere";5.4
 "25";"Giroud";8.4
 "26";"Welbeck";7.5
 "27";"Pérez";7.4
-"28";"Lacazette";10.4
+"28";"Lacazette";10.3
 "29";"Begovic";4.5
 "30";"Boruc";4.4
 "31";"Federici";4
@@ -65,13 +65,13 @@
 "64";"Kayal";4.4
 "65";"Sidwell";4.5
 "66";"March";5
-"67";"Skalak";4.9
+"67";"Skalak";4.8
 "68";"Norwood";4.5
 "69";"Murphy";4.9
-"70";"Groß";5.5
+"70";"Groß";5.6
 "71";"Murray";5.8
 "72";"Hemed";4.9
-"73";"Baldock";5
+"73";"Baldock";4.9
 "74";"Heaton";5
 "75";"Robinson";4.5
 "76";"Lowton";4.5
@@ -108,10 +108,10 @@
 "107";"Matic";5
 "108";"Loftus-Cheek";4.5
 "109";"Pedro";7.9
-"110";"Kenedy";4.9
+"110";"Kenedy";4.8
 "111";"Kanté";5
 "112";"Chalobah";4.5
-"113";"Batshuayi";8.2
+"113";"Batshuayi";8.1
 "114";"Costa";9.6
 "115";"Hennessey";4.5
 "116";"Speroni";4
@@ -243,10 +243,10 @@
 "242";"Stones";5.5
 "243";"Kolarov";5.5
 "244";"Kompany";5.9
-"245";"Otamendi";5.5
+"245";"Otamendi";5.6
 "246";"Delph";4.5
 "247";"Sterling";7.8
-"248";"David Silva";8.2
+"248";"David Silva";8.3
 "249";"Yaya Touré";6.3
 "250";"Fernandinho";5
 "251";"Fernando";4.5
@@ -279,16 +279,16 @@
 "278";"Herrera";5.3
 "279";"Lingard";5.9
 "280";"Martial";8
-"281";"Mkhitaryan";8.4
-"282";"Pogba";8.2
+"281";"Mkhitaryan";8.5
+"282";"Pogba";8.1
 "283";"McTominay";4.4
 "284";"Rashford";7.5
 "285";"Lukaku";11.7
 "286";"Elliot";4.1
-"287";"Darlow";4.5
+"287";"Darlow";4.4
 "288";"Yedlin";4.4
 "289";"Clark";4.5
-"290";"Lascelles";4.5
+"290";"Lascelles";4.6
 "291";"Dummett";4.3
 "292";"Hanley";4
 "293";"Gámez";4
@@ -299,9 +299,9 @@
 "298";"Diamé";4.8
 "299";"Colback";4.4
 "300";"Atsu";5
-"301";"Gayle";6.3
+"301";"Gayle";6.2
 "302";"Pérez";5.5
-"303";"Mitrovic";4.9
+"303";"Mitrovic";4.8
 "304";"Murphy";4.5
 "305";"McCarthy";4.5
 "306";"Forster";5
@@ -311,7 +311,7 @@
 "310";"Cédric";5
 "311";"van Dijk";5.4
 "312";"Pied";4.3
-"313";"Stephens";5
+"313";"Stephens";4.9
 "314";"McQueen";4.4
 "315";"Bednarek";4.3
 "316";"Davis";5
@@ -322,13 +322,13 @@
 "321";"Højbjerg";4.4
 "322";"Boufal";5.8
 "323";"Sims";4.4
-"324";"Redmond";6.5
+"324";"Redmond";6.4
 "325";"Long";5.8
 "326";"Austin";6.3
 "327";"Gabbiadini";6.9
 "328";"Butland";5
 "329";"Grant";4.4
-"330";"Shawcross";5
+"330";"Shawcross";4.9
 "331";"Cameron";4.5
 "332";"Pieters";5
 "333";"Muniesa";4.5
@@ -544,3 +544,4 @@
 "543";"Zappacosta";6
 "544";"Lumeka";4.5
 "545";"Legzdins";4
+"546";"Maitland-Niles";4.5
