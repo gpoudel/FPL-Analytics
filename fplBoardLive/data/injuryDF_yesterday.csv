@@ -1,20 +1,20 @@
 "id";"Player";"Status";"PlayingChance";"SelectedBy"
 "1";15;"Walcott";"Doubtful";"75";0
-"2";16;"Özil";"Doubtful";"75";2
+"2";16;"Özil";"Doubtful";"75";1
 "3";17;"Cazorla";"Injured";"0";0
 "4";20;"Coquelin";"Injured";"0";0
-"5";26;"Welbeck";"Injured";"0";2
+"5";26;"Welbeck";"Injured";"0";1
 "6";31;"Federici";"Injured";"0";3
-"7";48;"Callum Wilson";"Injured";"0";0
-"8";64;"Kayal";"Injured";"0";0
-"9";65;"Sidwell";"Injured";"0";0
-"10";73;"Baldock";"Injured";"0";0
-"11";74;"Heaton";"Injured";"0";4
-"12";83;"Marney";"Injured";"0";0
-"13";89;"Walters";"Doubtful";"25";0
-"14";101;"David Luiz";"Suspended";"0";19
-"15";109;"Pedro";"Doubtful";"75";1
-"16";126;"Zaha";"Injured";"0";3
+"7";36;"Mings";"Injured";"0";0
+"8";48;"Callum Wilson";"Injured";"0";0
+"9";64;"Kayal";"Injured";"0";0
+"10";65;"Sidwell";"Injured";"0";0
+"11";73;"Baldock";"Injured";"0";0
+"12";74;"Heaton";"Injured";"0";4
+"13";83;"Marney";"Injured";"0";0
+"14";89;"Walters";"Doubtful";"25";0
+"15";101;"David Luiz";"Suspended";"0";17
+"16";126;"Zaha";"Injured";"0";2
 "17";133;"Wickham";"Injured";"0";0
 "18";139;"Coleman";"Injured";"0";0
 "19";142;"Funes Mori";"Injured";"0";0
@@ -26,10 +26,10 @@
 "25";183;"Palmer";"Injured";"0";0
 "26";184;"Williams";"Injured";"0";0
 "27";185;"Wells";"Injured";"0";0
-"28";186;"Quaner";"Injured";"0";4
+"28";186;"Quaner";"Injured";"0";3
 "29";187;"Depoitre";"Doubtful";"75";0
 "30";188;"Mounie";"Injured";"0";2
-"31";192;"Fuchs";"Doubtful";"75";2
+"31";194;"Huth";"Injured";"0";0
 "32";202;"Drinkwater";"Injured";"0";0
 "33";209;"Vardy";"Doubtful";"75";10
 "34";210;"Ulloa";"Doubtful";"75";0
@@ -38,22 +38,22 @@
 "37";219;"Matip";"Doubtful";"75";2
 "38";227;"Can";"Doubtful";"75";7
 "39";228;"Lallana";"Injured";"0";0
-"40";230;"Mané";"Suspended";"0";12
+"40";230;"Mané";"Suspended";"0";11
 "41";244;"Kompany";"Doubtful";"75";3
 "42";253;"Gündogan";"Doubtful";"50";0
 "43";266;"Rojo";"Injured";"0";0
 "44";272;"Tuanzebe";"Injured";"0";1
-"45";282;"Pogba";"Injured";"0";17
-"46";287;"Darlow";"Injured";"0";0
-"47";291;"Dummett";"Injured";"0";0
-"48";303;"Mitrovic";"Suspended";"0";1
-"49";309;"Targett";"Doubtful";"25";0
-"50";330;"Shawcross";"Doubtful";"75";1
-"51";331;"Cameron";"Injured";"0";0
-"52";341;"Afellay";"Injured";"0";0
-"53";363;"Ki Sung-yueng";"Injured";"0";0
-"54";366;"Dyer";"Injured";"0";0
-"55";378;"Rose";"Injured";"0";0
+"45";282;"Pogba";"Injured";"0";15
+"46";291;"Dummett";"Injured";"0";0
+"47";303;"Mitrovic";"Suspended";"0";1
+"48";309;"Targett";"Doubtful";"25";0
+"49";330;"Shawcross";"Injured";"0";1
+"50";331;"Cameron";"Injured";"0";0
+"51";341;"Afellay";"Injured";"0";0
+"52";363;"Ki Sung-yueng";"Injured";"0";0
+"53";366;"Dyer";"Injured";"0";0
+"54";378;"Rose";"Injured";"0";0
+"55";383;"Wimmer";"Doubtful";"50";0
 "56";386;"Lamela";"Injured";"0";0
 "57";389;"Wanyama";"Injured";"0";0
 "58";398;"Kaboul";"Injured";"0";0
@@ -69,7 +69,7 @@
 "68";453;"Lanzini";"Injured";"0";0
 "69";456;"Fernandes";"Injured";"0";0
 "70";465;"Haidara";"Injured";"0";1
-"71";474;"James";"Doubtful";"75";0
+"71";474;"James";"Injured";"0";0
 "72";480;"Chambers";"Injured";"0";0
 "73";481;"Brown";"Doubtful";"75";0
 "74";485;"Bartley";"Injured";"0";0
