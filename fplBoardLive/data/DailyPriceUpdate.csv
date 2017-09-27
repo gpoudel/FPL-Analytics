@@ -36,9 +36,9 @@
 "35";"Adam Smith";4.9
 "36";"Mings";4.4
 "37";"Brad Smith";4
-"38";"Aké";5
+"38";"Aké";4.9
 "39";"Arter";4.9
-"40";"Pugh";4.9
+"40";"Pugh";4.8
 "41";"Surman";4.5
 "42";"Stanislas";5.9
 "43";"Gosling";4.9
@@ -89,7 +89,7 @@
 "88";"Westwood";4.5
 "89";"Walters";5.3
 "90";"Cork";4.5
-"91";"Vokes";6.1
+"91";"Vokes";6
 "92";"Gray";6.3
 "93";"Barnes";5.3
 "94";"Courtois";5.5
@@ -138,7 +138,7 @@
 "137";"Stekelenburg";4.4
 "138";"Baines";5.9
 "139";"Coleman";6.5
-"140";"Jagielka";5
+"140";"Jagielka";4.9
 "141";"Pennington";4
 "142";"Funes Mori";4.9
 "143";"Williams";5.4
@@ -155,11 +155,11 @@
 "154";"Schneiderlin";5
 "155";"Gueye";5
 "156";"Davies";5.3
-"157";"Lookman";5.3
+"157";"Lookman";5.2
 "158";"Klaassen";7.2
 "159";"Calvert-Lewin";5
-"160";"Sandro";7.3
-"161";"Rooney";7.5
+"160";"Sandro";7.2
+"161";"Rooney";7.4
 "162";"Coleman";4
 "163";"Lössl";4.6
 "164";"Schindler";4.6
@@ -188,7 +188,7 @@
 "187";"Depoitre";5.2
 "188";"Mounie";6
 "189";"Schmeichel";5
-"190";"Hamer";4.5
+"190";"Hamer";4.4
 "191";"Morgan";4.5
 "192";"Fuchs";4.9
 "193";"Simpson";4.5
@@ -209,7 +209,7 @@
 "208";"Iborra";5.8
 "209";"Vardy";8.5
 "210";"Ulloa";4.9
-"211";"Okazaki";5.5
+"211";"Okazaki";5.6
 "212";"Slimani";6.8
 "213";"Mignolet";4.9
 "214";"Karius";4.9
@@ -243,7 +243,7 @@
 "242";"Stones";5.5
 "243";"Kolarov";5.5
 "244";"Kompany";5.9
-"245";"Otamendi";5.6
+"245";"Otamendi";5.7
 "246";"Delph";4.5
 "247";"Sterling";7.8
 "248";"David Silva";8.4
@@ -257,7 +257,7 @@
 "256";"Bernardo Silva";7.6
 "257";"Agüero";11.7
 "258";"Iheanacho";6.7
-"259";"Jesus";10.5
+"259";"Jesus";10.4
 "260";"de Gea";5.6
 "261";"Romero";4.8
 "262";"Joel Pereira";3.9
@@ -311,7 +311,7 @@
 "310";"Cédric";5
 "311";"van Dijk";5.4
 "312";"Pied";4.3
-"313";"Stephens";4.9
+"313";"Stephens";4.8
 "314";"McQueen";4.4
 "315";"Bednarek";4.3
 "316";"Davis";5.1
@@ -324,7 +324,7 @@
 "323";"Sims";4.4
 "324";"Redmond";6.4
 "325";"Long";5.8
-"326";"Austin";6.3
+"326";"Austin";6.2
 "327";"Gabbiadini";6.8
 "328";"Butland";5
 "329";"Grant";4.4
@@ -499,7 +499,7 @@
 "498";"Walker-Peters";4.3
 "499";"Sinclair";5
 "500";"Lemina";5
-"501";"Richarlison";6
+"501";"Richarlison";6.1
 "502";"Mangala";5
 "503";"Tomori";4.5
 "504";"Scott";4.5
