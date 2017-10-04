@@ -8,7 +8,7 @@
 "7";"Bellerín";5.9
 "8";"Gibbs";5
 "9";"Jenkinson";4.5
-"10";"Monreal";5.4
+"10";"Monreal";5.5
 "11";"Holding";4.7
 "12";"Mustafi";5.4
 "13";"Kolasinac";6
@@ -21,7 +21,7 @@
 "20";"Coquelin";4.4
 "21";"Iwobi";5.1
 "22";"Elneny";4.5
-"23";"Xhaka";5.6
+"23";"Xhaka";5.5
 "24";"Wilshere";5.4
 "25";"Giroud";8.3
 "26";"Welbeck";7.5
@@ -86,12 +86,12 @@
 "85";"Defour";5.5
 "86";"Hendrick";5.4
 "87";"Brady";5.5
-"88";"Westwood";4.5
+"88";"Westwood";4.4
 "89";"Walters";5.3
 "90";"Cork";4.5
 "91";"Vokes";6
 "92";"Gray";6.3
-"93";"Barnes";5.3
+"93";"Barnes";5.2
 "94";"Courtois";5.5
 "95";"Eduardo";4.9
 "96";"Caballero";4.9
@@ -246,7 +246,7 @@
 "245";"Otamendi";5.7
 "246";"Delph";4.5
 "247";"Sterling";7.9
-"248";"David Silva";8.4
+"248";"David Silva";8.5
 "249";"Yaya Touré";6.2
 "250";"Fernandinho";5
 "251";"Fernando";4.5
@@ -388,7 +388,7 @@
 "387";"Eriksen";9.7
 "388";"Alli";9.5
 "389";"Wanyama";4.9
-"390";"Son";8
+"390";"Son";7.9
 "391";"Winks";4.8
 "392";"Nkoudou";5.4
 "393";"Sissoko";5.4
@@ -470,7 +470,7 @@
 "469";"Pope";4.5
 "470";"Christensen";5.5
 "471";"Musonda";4.8
-"472";"Morata";10.4
+"472";"Morata";10.3
 "473";"Jakupovic";4.4
 "474";"James";4.5
 "475";"Robertson";4.9
