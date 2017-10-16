@@ -15,9 +15,9 @@
 "14";"Sánchez";11.9
 "15";"Walcott";7.2
 "16";"Özil";9.3
-"17";"Cazorla";7
+"17";"Cazorla";6.9
 "18";"Ramsey";7.1
-"19";"Chamberlain";5.8
+"19";"Chamberlain";5.7
 "20";"Coquelin";4.4
 "21";"Iwobi";5.1
 "22";"Elneny";4.5
@@ -159,7 +159,7 @@
 "158";"Klaassen";7.1
 "159";"Calvert-Lewin";5
 "160";"Sandro";7.2
-"161";"Rooney";7.4
+"161";"Rooney";7.3
 "162";"Coleman";4
 "163";"Lössl";4.6
 "164";"Schindler";4.6
@@ -221,7 +221,7 @@
 "220";"Klavan";4.4
 "221";"Sakho";4.9
 "222";"Milner";6.2
-"223";"Alexander-Arnold";4.4
+"223";"Alexander-Arnold";4.3
 "224";"Lucas";4.5
 "225";"Henderson";5.5
 "226";"Coutinho";9
@@ -245,10 +245,10 @@
 "244";"Kompany";5.9
 "245";"Otamendi";5.7
 "246";"Delph";4.5
-"247";"Sterling";8
+"247";"Sterling";8.1
 "248";"David Silva";8.5
 "249";"Yaya Touré";6.2
-"250";"Fernandinho";5
+"250";"Fernandinho";5.1
 "251";"Fernando";4.5
 "252";"De Bruyne";10
 "253";"Gündogan";5.4
@@ -387,7 +387,7 @@
 "386";"Lamela";6.4
 "387";"Eriksen";9.7
 "388";"Alli";9.4
-"389";"Wanyama";4.9
+"389";"Wanyama";4.8
 "390";"Son";7.9
 "391";"Winks";4.8
 "392";"Nkoudou";5.4
@@ -397,7 +397,7 @@
 "396";"Pantilimon";4.5
 "397";"Gomes";4.5
 "398";"Kaboul";4.4
-"399";"Cathcart";4.5
+"399";"Cathcart";4.4
 "400";"Prödl";4.4
 "401";"Holebas";5
 "402";"Britos";4.5
@@ -423,7 +423,7 @@
 "422";"Nyom";5
 "423";"Evans";4.9
 "424";"Dawson";5
-"425";"McAuley";4.9
+"425";"McAuley";4.8
 "426";"Livermore";5
 "427";"Chadli";5.7
 "428";"Morrison";5.5
@@ -443,7 +443,7 @@
 "442";"Reid";4.9
 "443";"Cresswell";5
 "444";"Ogbonna";4.4
-"445";"Byram";4.4
+"445";"Byram";4.3
 "446";"Masuaku";4.4
 "447";"Zabaleta";4.9
 "448";"Snodgrass";5.8
@@ -481,7 +481,7 @@
 "480";"Chambers";4.8
 "481";"Brown";5.3
 "482";"Riedewald";4.8
-"483";"Danilo";5.4
+"483";"Danilo";5.3
 "484";"Mendy";6.4
 "485";"Bartley";4.4
 "486";"Watson";4.4
@@ -508,7 +508,7 @@
 "507";"Harper";4.5
 "508";"Wilson";4
 "509";"Boga";6
-"510";"Rice";4.5
+"510";"Rice";4.4
 "511";"Carter-Vickers";4.5
 "512";"Jesé";5.8
 "513";"Martins Indi";4.9
@@ -535,7 +535,7 @@
 "534";"Foyth";4.5
 "535";"Sanches";4.9
 "536";"Karnezis";4.5
-"537";"Zeegelaar";4.5
+"537";"Zeegelaar";4.4
 "538";"Schelotto";4.5
 "539";"Vlasic";5.5
 "540";"Krul";4
