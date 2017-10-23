@@ -8,7 +8,7 @@
 "7";"Bellerín";5.9
 "8";"Gibbs";5
 "9";"Jenkinson";4.5
-"10";"Monreal";5.5
+"10";"Monreal";5.6
 "11";"Holding";4.7
 "12";"Mustafi";5.4
 "13";"Kolasinac";6
@@ -92,7 +92,7 @@
 "91";"Vokes";5.9
 "92";"Gray";6.3
 "93";"Barnes";5.2
-"94";"Courtois";5.5
+"94";"Courtois";5.4
 "95";"Eduardo";4.8
 "96";"Caballero";4.9
 "97";"Azpilicueta";6.6
@@ -143,7 +143,7 @@
 "142";"Funes Mori";4.9
 "143";"Williams";5.3
 "144";"Holgate";4.3
-"145";"Kenny";4.4
+"145";"Kenny";4.3
 "146";"Keane";5.4
 "147";"Bolasie";6.4
 "148";"Mirallas";6.2
@@ -193,7 +193,7 @@
 "192";"Fuchs";4.9
 "193";"Simpson";4.5
 "194";"Huth";4.9
-"195";"Benalouane";4.4
+"195";"Benalouane";4.3
 "196";"Chilwell";4.3
 "197";"Wagué";4.5
 "198";"Maguire";5.1
@@ -253,10 +253,10 @@
 "252";"De Bruyne";10
 "253";"Gündogan";5.4
 "254";"Nolito";7
-"255";"Sané";8.5
+"255";"Sané";8.6
 "256";"Bernardo Silva";7.5
 "257";"Agüero";11.6
-"258";"Iheanacho";6.7
+"258";"Iheanacho";6.6
 "259";"Jesus";10.7
 "260";"de Gea";5.6
 "261";"Romero";4.8
@@ -306,13 +306,13 @@
 "305";"McCarthy";4.4
 "306";"Forster";5.1
 "307";"Bertrand";5.5
-"308";"Yoshida";5
+"308";"Yoshida";5.1
 "309";"Targett";4.3
 "310";"Cédric";5
 "311";"van Dijk";5.4
 "312";"Pied";4.3
 "313";"Stephens";4.7
-"314";"McQueen";4.4
+"314";"McQueen";4.3
 "315";"Bednarek";4.3
 "316";"Davis";5.1
 "317";"Ward-Prowse";5.2
@@ -407,16 +407,16 @@
 "406";"Mason";4
 "407";"Kiko Femenía";4.5
 "408";"Cleverley";5
-"409";"Capoue";5.2
+"409";"Capoue";5.1
 "410";"Behrami";4.5
 "411";"Berghuis";5
 "412";"Amrabat";5
 "413";"Success";5.3
-"414";"Doucouré";5.3
+"414";"Doucouré";5.4
 "415";"Pereyra";5.8
 "416";"Hughes";4.7
 "417";"Deeney";6.3
-"418";"Okaka";5.4
+"418";"Okaka";5.3
 "419";"Zárate";5.4
 "420";"Myhill";4
 "421";"Foster";4.5
@@ -424,7 +424,7 @@
 "423";"Evans";4.9
 "424";"Dawson";5
 "425";"McAuley";4.8
-"426";"Livermore";5
+"426";"Livermore";4.9
 "427";"Chadli";5.7
 "428";"Morrison";5.5
 "429";"Yacob";4.4
@@ -522,7 +522,7 @@
 "521";"Hadergjonaj";4.5
 "522";"Sabiri";5
 "523";"Ibrahimovic";10
-"524";"Burke";5.4
+"524";"Burke";5.3
 "525";"Hoedt";5
 "526";"Haksabanovic";5
 "527";"Carrillo";5.5
@@ -557,3 +557,4 @@
 "556";"Edwards";4
 "557";"Palmer";4
 "558";"Ampadu";4.5
+"559";"Macey";5
