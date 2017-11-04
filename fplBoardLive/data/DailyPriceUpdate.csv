@@ -26,7 +26,7 @@
 "25";"Giroud";8.2
 "26";"Welbeck";7.3
 "27";"Pérez";7.4
-"28";"Lacazette";10.4
+"28";"Lacazette";10.3
 "29";"Begovic";4.5
 "30";"Boruc";4.3
 "31";"Federici";4
@@ -68,7 +68,7 @@
 "67";"Skalak";4.8
 "68";"Norwood";4.5
 "69";"Murphy";4.8
-"70";"Groß";5.8
+"70";"Groß";5.9
 "71";"Murray";5.7
 "72";"Hemed";5
 "73";"Baldock";4.9
@@ -76,7 +76,7 @@
 "75";"Robinson";4.5
 "76";"Lowton";4.5
 "77";"Mee";4.5
-"78";"Ward";4.7
+"78";"Ward";4.8
 "79";"Tarkowski";4.5
 "80";"Long";3.9
 "81";"Taylor";4.3
@@ -96,7 +96,7 @@
 "95";"Eduardo";4.8
 "96";"Caballero";4.8
 "97";"Azpilicueta";6.7
-"98";"Cahill";6.3
+"98";"Cahill";6.2
 "99";"Zouma";5.5
 "100";"Alonso";6.9
 "101";"David Luiz";5.9
@@ -122,7 +122,7 @@
 "121";"Delaney";4.2
 "122";"Souaré";4.5
 "123";"Schlupp";4.7
-"124";"van Aanholt";5.2
+"124";"van Aanholt";5.1
 "125";"Puncheon";4.7
 "126";"Zaha";6.8
 "127";"McArthur";4.4
@@ -144,7 +144,7 @@
 "143";"Williams";5.2
 "144";"Holgate";4.3
 "145";"Kenny";4.3
-"146";"Keane";5.4
+"146";"Keane";5.3
 "147";"Bolasie";6.4
 "148";"Mirallas";6.1
 "149";"Barkley";7.4
@@ -216,12 +216,12 @@
 "215";"Lovren";5.4
 "216";"Moreno";4.5
 "217";"Clyne";5.3
-"218";"Gomez";4.5
+"218";"Gomez";4.6
 "219";"Matip";5.5
 "220";"Klavan";4.3
 "221";"Sakho";4.9
 "222";"Milner";6.2
-"223";"Alexander-Arnold";4.3
+"223";"Alexander-Arnold";4.2
 "224";"Lucas";4.5
 "225";"Henderson";5.5
 "226";"Coutinho";8.9
@@ -288,8 +288,8 @@
 "287";"Darlow";4.4
 "288";"Yedlin";4.4
 "289";"Clark";4.5
-"290";"Lascelles";4.7
-"291";"Dummett";4.3
+"290";"Lascelles";4.8
+"291";"Dummett";4.2
 "292";"Hanley";4
 "293";"Gámez";4
 "294";"Lejeune";4.4
@@ -392,11 +392,11 @@
 "391";"Winks";4.8
 "392";"Nkoudou";5.4
 "393";"Sissoko";5.4
-"394";"Kane";12.7
+"394";"Kane";12.8
 "395";"Janssen";7.4
 "396";"Pantilimon";4.5
 "397";"Gomes";4.5
-"398";"Kaboul";4.4
+"398";"Kaboul";4.3
 "399";"Cathcart";4.4
 "400";"Prödl";4.4
 "401";"Holebas";5
@@ -480,7 +480,7 @@
 "479";"Hart";4.4
 "480";"Chambers";4.7
 "481";"Brown";5.3
-"482";"Riedewald";4.8
+"482";"Riedewald";4.7
 "483";"Danilo";5.2
 "484";"Mendy";6.3
 "485";"Bartley";4.4
@@ -522,7 +522,7 @@
 "521";"Hadergjonaj";4.5
 "522";"Sabiri";5
 "523";"Ibrahimovic";10
-"524";"Burke";5.3
+"524";"Burke";5.2
 "525";"Hoedt";5
 "526";"Haksabanovic";5
 "527";"Carrillo";5.5
@@ -540,7 +540,7 @@
 "539";"Vlasic";5.5
 "540";"Krul";4
 "541";"Dragovic";5
-"542";"Bony";5.8
+"542";"Bony";5.7
 "543";"Zappacosta";5.9
 "544";"Lumeka";4.5
 "545";"Legzdins";4
