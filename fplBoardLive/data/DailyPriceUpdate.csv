@@ -16,7 +16,7 @@
 "15";"Walcott";7.1
 "16";"Özil";9.3
 "17";"Cazorla";6.9
-"18";"Ramsey";7
+"18";"Ramsey";7.1
 "19";"Chamberlain";5.7
 "20";"Coquelin";4.4
 "21";"Iwobi";5.1
@@ -46,7 +46,7 @@
 "45";"Ibe";4.9
 "46";"Lewis Cook";4.4
 "47";"Fraser";5.1
-"48";"Callum Wilson";6
+"48";"Callum Wilson";6.1
 "49";"Afobe";5.7
 "50";"Mousset";4.9
 "51";"King";7
@@ -68,7 +68,7 @@
 "67";"Skalak";4.7
 "68";"Norwood";4.5
 "69";"Murphy";4.8
-"70";"Groß";5.9
+"70";"Groß";6
 "71";"Murray";5.8
 "72";"Hemed";4.9
 "73";"Baldock";4.9
@@ -79,7 +79,7 @@
 "78";"Ward";5
 "79";"Tarkowski";4.5
 "80";"Long";3.9
-"81";"Taylor";4.3
+"81";"Taylor";4.2
 "82";"Arfield";4.9
 "83";"Marney";4.5
 "84";"Gudmundsson";5
@@ -102,7 +102,7 @@
 "101";"David Luiz";5.8
 "102";"Moses";6.4
 "103";"Rüdiger";5.8
-"104";"Hazard";10.6
+"104";"Hazard";10.7
 "105";"Fàbregas";6.9
 "106";"Willian";6.7
 "107";"Matic";5
@@ -155,11 +155,11 @@
 "154";"Schneiderlin";4.8
 "155";"Gueye";4.8
 "156";"Davies";5.2
-"157";"Lookman";5.2
+"157";"Lookman";5.1
 "158";"Klaassen";7
 "159";"Calvert-Lewin";5
 "160";"Sandro";7.1
-"161";"Rooney";7.3
+"161";"Rooney";7.2
 "162";"Coleman";4
 "163";"Lössl";4.6
 "164";"Schindler";4.6
@@ -232,7 +232,7 @@
 "231";"Grujic";4.3
 "232";"Wijnaldum";6.7
 "233";"Woodburn";4.4
-"234";"Salah";9.6
+"234";"Salah";9.7
 "235";"Firmino";8.5
 "236";"Sturridge";8
 "237";"Ings";5.4
@@ -246,7 +246,7 @@
 "245";"Otamendi";5.8
 "246";"Delph";4.5
 "247";"Sterling";8.1
-"248";"David Silva";8.4
+"248";"David Silva";8.3
 "249";"Yaya Touré";6.1
 "250";"Fernandinho";5.2
 "251";"Fernando";4.5
@@ -265,7 +265,7 @@
 "264";"Jones";5.4
 "265";"Shaw";4.9
 "266";"Rojo";5.4
-"267";"Valencia";6.7
+"267";"Valencia";6.8
 "268";"Darmian";5.1
 "269";"Fosu-Mensah";4.4
 "270";"Blind";5.3
@@ -293,7 +293,7 @@
 "292";"Hanley";4
 "293";"Gámez";4
 "294";"Lejeune";4.4
-"295";"Ritchie";5.8
+"295";"Ritchie";5.7
 "296";"Shelvey";5.3
 "297";"Gouffran";5
 "298";"Diamé";4.7
@@ -343,7 +343,7 @@
 "342";"Shaqiri";6
 "343";"Imbula";4.5
 "344";"Bojan";5.5
-"345";"Sobhi";4.7
+"345";"Sobhi";4.6
 "346";"Fletcher";4.9
 "347";"Crouch";4.8
 "348";"Diouf";5.5
@@ -423,7 +423,7 @@
 "422";"Nyom";4.9
 "423";"Evans";4.9
 "424";"Dawson";4.8
-"425";"McAuley";4.8
+"425";"McAuley";4.7
 "426";"Livermore";4.9
 "427";"Chadli";5.7
 "428";"Morrison";5.4
@@ -470,7 +470,7 @@
 "469";"Pope";4.6
 "470";"Christensen";5.4
 "471";"Musonda";4.8
-"472";"Morata";10.5
+"472";"Morata";10.6
 "473";"Jakupovic";4.3
 "474";"James";4.4
 "475";"Robertson";4.6
