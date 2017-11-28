@@ -39,7 +39,7 @@
 "38";"Aké";4.9
 "39";"Arter";4.9
 "40";"Pugh";4.8
-"41";"Surman";4.7
+"41";"Surman";4.8
 "42";"Stanislas";5.9
 "43";"Gosling";4.8
 "44";"Gradel";5
@@ -74,7 +74,7 @@
 "73";"Baldock";4.9
 "74";"Heaton";4.8
 "75";"Robinson";4.5
-"76";"Lowton";4.6
+"76";"Lowton";4.7
 "77";"Mee";4.7
 "78";"Ward";5
 "79";"Tarkowski";4.5
@@ -133,7 +133,7 @@
 "132";"Milivojevic";4.6
 "133";"Wickham";5.4
 "134";"Benteke";7.6
-"135";"Pickford";4.9
+"135";"Pickford";4.8
 "136";"Robles";4.3
 "137";"Stekelenburg";4.3
 "138";"Baines";5.8
@@ -157,7 +157,7 @@
 "156";"Davies";5.2
 "157";"Lookman";5.1
 "158";"Klaassen";7
-"159";"Calvert-Lewin";5
+"159";"Calvert-Lewin";5.1
 "160";"Sandro";7.1
 "161";"Rooney";7.2
 "162";"Coleman";4
@@ -180,7 +180,7 @@
 "179";"Bunn";4.5
 "180";"Scannell";4.5
 "181";"Kachunga";5.8
-"182";"Ince";5.7
+"182";"Ince";5.6
 "183";"Palmer";5.3
 "184";"Williams";4.9
 "185";"Wells";4.9
@@ -202,14 +202,14 @@
 "201";"King";4.3
 "202";"Drinkwater";4.8
 "203";"Gray";5.3
-"204";"Amartey";4.4
+"204";"Amartey";4.3
 "205";"Mendy";4.5
 "206";"Ndidi";4.9
 "207";"Musa";6.2
 "208";"Iborra";5.8
 "209";"Vardy";8.5
 "210";"Ulloa";4.8
-"211";"Okazaki";5.6
+"211";"Okazaki";5.5
 "212";"Slimani";6.7
 "213";"Mignolet";4.9
 "214";"Karius";4.8
@@ -257,7 +257,7 @@
 "256";"Bernardo Silva";7.5
 "257";"Agüero";11.7
 "258";"Iheanacho";6.6
-"259";"Jesus";10.5
+"259";"Jesus";10.4
 "260";"de Gea";5.8
 "261";"Romero";4.8
 "262";"Joel Pereira";3.9
@@ -279,7 +279,7 @@
 "278";"Herrera";5.1
 "279";"Lingard";5.8
 "280";"Martial";8
-"281";"Mkhitaryan";7.9
+"281";"Mkhitaryan";7.8
 "282";"Pogba";8
 "283";"McTominay";4.3
 "284";"Rashford";7.7
@@ -306,7 +306,7 @@
 "305";"McCarthy";4.4
 "306";"Forster";5.1
 "307";"Bertrand";5.4
-"308";"Yoshida";5
+"308";"Yoshida";4.9
 "309";"Targett";4.3
 "310";"Cédric";4.9
 "311";"van Dijk";5.4
@@ -333,7 +333,7 @@
 "332";"Pieters";4.9
 "333";"Muniesa";4.5
 "334";"Bardsley";4.3
-"335";"Johnson";4.2
+"335";"Johnson";4.1
 "336";"Tymon";4.4
 "337";"Allen";5.2
 "338";"Adam";4.7
@@ -363,7 +363,7 @@
 "362";"Fulton";4.4
 "363";"Ki Sung-yueng";4.9
 "364";"Montero";4.9
-"365";"Fer";5.4
+"365";"Fer";5.3
 "366";"Dyer";4.4
 "367";"Carroll";4.5
 "368";"Barrow";5
@@ -382,10 +382,10 @@
 "381";"Davies";5.7
 "382";"Trippier";5.7
 "383";"Wimmer";4.4
-"384";"Dier";4.9
+"384";"Dier";4.8
 "385";"Dembélé";4.9
 "386";"Lamela";6.3
-"387";"Eriksen";9.5
+"387";"Eriksen";9.4
 "388";"Alli";9.2
 "389";"Wanyama";4.8
 "390";"Son";7.9
@@ -402,8 +402,8 @@
 "401";"Holebas";5
 "402";"Britos";4.5
 "403";"Kabasele";4.5
-"404";"Janmaat";4.9
-"405";"Mariappa";4
+"404";"Janmaat";4.8
+"405";"Mariappa";4.1
 "406";"Mason";3.9
 "407";"Kiko Femenía";4.5
 "408";"Cleverley";5
@@ -438,7 +438,7 @@
 "437";"Rodriguez";5.6
 "438";"Adrián";4.3
 "439";"Randolph";4.5
-"440";"Fonte";4.9
+"440";"Fonte";4.8
 "441";"Collins";4.3
 "442";"Reid";4.9
 "443";"Cresswell";5
@@ -483,7 +483,7 @@
 "482";"Riedewald";4.7
 "483";"Danilo";5.1
 "484";"Mendy";6.3
-"485";"Bartley";4.4
+"485";"Bartley";4.3
 "486";"Watson";4.4
 "487";"Chicharito";6.8
 "488";"Joselu";5.5
@@ -510,7 +510,7 @@
 "509";"Boga";6
 "510";"Rice";4.4
 "511";"Carter-Vickers";4.5
-"512";"Jesé";5.6
+"512";"Jesé";5.5
 "513";"Martins Indi";4.9
 "514";"Flanagan";4.5
 "515";"Kaikai";4.4
@@ -522,7 +522,7 @@
 "521";"Hadergjonaj";4.5
 "522";"Sabiri";5
 "523";"Ibrahimovic";10
-"524";"Burke";5.2
+"524";"Burke";5.1
 "525";"Hoedt";5
 "526";"Haksabanovic";5
 "527";"Carrillo";5.5
