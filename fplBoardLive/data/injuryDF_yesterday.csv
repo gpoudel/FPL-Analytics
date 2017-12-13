@@ -1,49 +1,49 @@
 "id";"Player";"Status";"PlayingChance";"SelectedBy"
 "1";12;"Mustafi";"Injured";"0";2
-"2";15;"Walcott";"Doubtful";"75";0
-"3";17;"Cazorla";"Injured";"0";0
-"4";18;"Ramsey";"Doubtful";"75";9
-"5";31;"Federici";"Injured";"0";2
-"6";36;"Mings";"Injured";"0";0
-"7";37;"Brad Smith";"Injured";"0";2
-"8";65;"Sidwell";"Injured";"0";0
-"9";74;"Heaton";"Injured";"0";1
-"10";76;"Lowton";"Doubtful";"50";3
-"11";77;"Mee";"Doubtful";"75";12
+"2";17;"Cazorla";"Injured";"0";0
+"3";18;"Ramsey";"Injured";"0";7
+"4";31;"Federici";"Injured";"0";2
+"5";36;"Mings";"Injured";"0";0
+"6";37;"Brad Smith";"Injured";"0";2
+"7";65;"Sidwell";"Injured";"0";0
+"8";74;"Heaton";"Injured";"0";1
+"9";76;"Lowton";"Doubtful";"75";2
+"10";77;"Mee";"Doubtful";"75";12
+"11";78;"Ward";"Doubtful";"75";25
 "12";83;"Marney";"Injured";"0";0
-"13";87;"Brady";"Injured";"0";1
+"13";87;"Brady";"Injured";"0";0
 "14";89;"Walters";"Injured";"0";0
-"15";101;"David Luiz";"Injured";"0";9
-"16";112;"Chalobah";"Injured";"0";0
-"17";119;"Ward";"Doubtful";"75";0
-"18";121;"Delaney";"Injured";"0";0
-"19";128;"Lee Chung-yong";"Injured";"0";0
-"20";133;"Wickham";"Injured";"0";0
-"21";138;"Baines";"Injured";"0";3
-"22";139;"Coleman";"Injured";"0";0
-"23";142;"Funes Mori";"Injured";"0";0
-"24";147;"Bolasie";"Injured";"0";0
-"25";149;"Barkley";"Injured";"0";0
-"26";150;"McCarthy";"Injured";"0";0
-"27";151;"Barry";"Injured";"0";1
-"28";167;"Hefele";"Injured";"0";0
-"29";169;"Stankovic";"Injured";"0";0
-"30";175;"Billing";"Injured";"0";0
-"31";194;"Huth";"Injured";"0";0
-"32";202;"Drinkwater";"Doubtful";"75";0
+"15";99;"Zouma";"Doubtful";"50";2
+"16";101;"David Luiz";"Injured";"0";9
+"17";112;"Chalobah";"Injured";"0";0
+"18";119;"Ward";"Injured";"0";0
+"19";121;"Delaney";"Injured";"0";0
+"20";128;"Lee Chung-yong";"Injured";"0";0
+"21";133;"Wickham";"Injured";"0";0
+"22";138;"Baines";"Injured";"0";3
+"23";139;"Coleman";"Injured";"0";0
+"24";142;"Funes Mori";"Injured";"0";0
+"25";147;"Bolasie";"Injured";"0";0
+"26";149;"Barkley";"Injured";"0";0
+"27";150;"McCarthy";"Injured";"0";0
+"28";151;"Barry";"Injured";"0";1
+"29";167;"Hefele";"Injured";"0";0
+"30";169;"Stankovic";"Injured";"0";0
+"31";175;"Billing";"Injured";"0";0
+"32";194;"Huth";"Injured";"0";0
 "33";216;"Moreno";"Injured";"0";3
 "34";217;"Clyne";"Injured";"0";0
-"35";219;"Matip";"Doubtful";"25";2
+"35";219;"Matip";"Injured";"0";2
 "36";221;"Sakho";"Injured";"0";1
-"37";228;"Lallana";"Injured";"0";0
+"37";228;"Lallana";"Doubtful";"25";0
 "38";236;"Sturridge";"Doubtful";"75";0
 "39";242;"Stones";"Injured";"0";3
-"40";244;"Kompany";"Doubtful";"25";2
+"40";244;"Kompany";"Injured";"0";2
 "41";266;"Rojo";"Doubtful";"75";0
 "42";271;"Bailly";"Injured";"0";7
 "43";275;"Fellaini";"Doubtful";"50";0
 "44";276;"Carrick";"Injured";"0";1
-"45";282;"Pogba";"Suspended";"0";10
+"45";282;"Pogba";"Suspended";"0";9
 "46";291;"Dummett";"Injured";"0";0
 "47";310;"Cédric";"Doubtful";"75";4
 "48";335;"Johnson";"Doubtful";"50";0
@@ -54,21 +54,24 @@
 "53";399;"Cathcart";"Injured";"0";0
 "54";402;"Britos";"Doubtful";"75";0
 "55";407;"Kiko Femenía";"Doubtful";"75";5
-"56";416;"Hughes";"Injured";"0";0
-"57";418;"Okaka";"Injured";"0";0
-"58";424;"Dawson";"Injured";"0";1
-"59";427;"Chadli";"Injured";"0";0
-"60";428;"Morrison";"Injured";"0";0
-"61";432;"Phillips";"Doubtful";"75";0
-"62";440;"Fonte";"Injured";"0";1
-"63";441;"Collins";"Doubtful";"75";0
-"64";445;"Byram";"Injured";"0";0
-"65";451;"Kouyaté";"Injured";"0";0
-"66";472;"Morata";"Injured";"0";35
-"67";474;"James";"Injured";"0";0
-"68";484;"Mendy";"Injured";"0";0
-"69";485;"Bartley";"Injured";"0";0
-"70";512;"Jesé";"Injured";"0";2
-"71";513;"Martins Indi";"Injured";"0";0
-"72";520;"Sánchez";"Suspended";"0";0
-"73";537;"Zeegelaar";"Suspended";"0";1
+"56";408;"Cleverley";"Suspended";"0";1
+"57";416;"Hughes";"Injured";"0";0
+"58";418;"Okaka";"Injured";"0";0
+"59";424;"Dawson";"Injured";"0";1
+"60";427;"Chadli";"Doubtful";"50";0
+"61";428;"Morrison";"Injured";"0";0
+"62";432;"Phillips";"Doubtful";"50";0
+"63";440;"Fonte";"Injured";"0";1
+"64";441;"Collins";"Injured";"0";0
+"65";445;"Byram";"Injured";"0";0
+"66";451;"Kouyaté";"Injured";"0";0
+"67";456;"Fernandes";"Doubtful";"25";0
+"68";472;"Morata";"Doubtful";"50";25
+"69";474;"James";"Injured";"0";0
+"70";484;"Mendy";"Injured";"0";0
+"71";485;"Bartley";"Injured";"0";0
+"72";501;"Richarlison";"Doubtful";"75";20
+"73";512;"Jesé";"Injured";"0";2
+"74";513;"Martins Indi";"Injured";"0";0
+"75";520;"Sánchez";"Suspended";"0";0
+"76";537;"Zeegelaar";"Suspended";"0";1
