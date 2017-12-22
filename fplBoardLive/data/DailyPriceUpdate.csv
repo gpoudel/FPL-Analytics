@@ -76,12 +76,12 @@
 "75";"Robinson";4.5
 "76";"Lowton";4.6
 "77";"Mee";4.7
-"78";"Ward";5.1
+"78";"Ward";5
 "79";"Tarkowski";4.8
 "80";"Long";4
 "81";"Taylor";4.2
 "82";"Arfield";4.9
-"83";"Marney";4.5
+"83";"Marney";4.4
 "84";"Gudmundsson";5
 "85";"Defour";5.4
 "86";"Hendrick";5.4
@@ -97,7 +97,7 @@
 "96";"Caballero";4.8
 "97";"Azpilicueta";6.9
 "98";"Cahill";6.2
-"99";"Zouma";5.5
+"99";"Zouma";5.4
 "100";"Alonso";7
 "101";"David Luiz";5.8
 "102";"Moses";6.4
@@ -170,7 +170,7 @@
 "169";"Stankovic";4
 "170";"Hudson";4
 "171";"Zanka";4.5
-"172";"Mooy";5.3
+"172";"Mooy";5.4
 "173";"van La Parra";4.8
 "174";"Hogg";4.4
 "175";"Billing";4.4
@@ -184,7 +184,7 @@
 "183";"Palmer";5.3
 "184";"Williams";4.9
 "185";"Wells";4.9
-"186";"Quaner";4.5
+"186";"Quaner";4.6
 "187";"Depoitre";5.3
 "188";"Mounie";5.7
 "189";"Schmeichel";5
@@ -207,7 +207,7 @@
 "206";"Ndidi";4.9
 "207";"Musa";6.2
 "208";"Iborra";5.8
-"209";"Vardy";8.7
+"209";"Vardy";8.6
 "210";"Ulloa";4.8
 "211";"Okazaki";5.5
 "212";"Slimani";6.7
@@ -219,7 +219,7 @@
 "218";"Gomez";4.7
 "219";"Matip";5.4
 "220";"Klavan";4.3
-"221";"Sakho";4.9
+"221";"Sakho";4.8
 "222";"Milner";6.1
 "223";"Alexander-Arnold";4.2
 "224";"Lucas";4.5
@@ -228,12 +228,12 @@
 "227";"Can";4.8
 "228";"Lallana";7.3
 "229";"Sheyi Ojo";5
-"230";"Mané";9.4
+"230";"Mané";9.3
 "231";"Grujic";4.3
 "232";"Wijnaldum";6.7
 "233";"Woodburn";4.3
 "234";"Salah";10
-"235";"Firmino";8.6
+"235";"Firmino";8.7
 "236";"Sturridge";7.9
 "237";"Ings";5.4
 "238";"Origi";7.4
@@ -245,7 +245,7 @@
 "244";"Kompany";5.8
 "245";"Otamendi";6.2
 "246";"Delph";4.5
-"247";"Sterling";8.5
+"247";"Sterling";8.6
 "248";"David Silva";8.2
 "249";"Yaya Touré";6.1
 "250";"Fernandinho";5.1
@@ -261,8 +261,8 @@
 "260";"de Gea";5.9
 "261";"Romero";4.7
 "262";"Joel Pereira";3.9
-"263";"Smalling";5.4
-"264";"Jones";5.4
+"263";"Smalling";5.5
+"264";"Jones";5.5
 "265";"Shaw";4.9
 "266";"Rojo";5.4
 "267";"Valencia";6.9
@@ -365,7 +365,7 @@
 "364";"Montero";4.9
 "365";"Fer";5.2
 "366";"Dyer";4.4
-"367";"Carroll";4.4
+"367";"Carroll";4.3
 "368";"Barrow";5
 "369";"Narsingh";4.7
 "370";"Mesa";4.3
@@ -495,7 +495,7 @@
 "494";"Mbemba";3.9
 "495";"Merino";5
 "496";"Hayden";4.5
-"497";"Choupo-Moting";5.5
+"497";"Choupo-Moting";5.4
 "498";"Walker-Peters";4.1
 "499";"Sinclair";4.9
 "500";"Lemina";4.9
