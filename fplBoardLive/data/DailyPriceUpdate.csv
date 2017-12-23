@@ -32,13 +32,13 @@
 "31";"Federici";4
 "32";"Francis";4.4
 "33";"Steve Cook";4.8
-"34";"Daniels";4.9
+"34";"Daniels";4.8
 "35";"Adam Smith";4.8
 "36";"Mings";4.3
 "37";"Brad Smith";3.9
 "38";"Aké";4.9
 "39";"Arter";4.8
-"40";"Pugh";4.8
+"40";"Pugh";4.7
 "41";"Surman";4.8
 "42";"Stanislas";5.9
 "43";"Gosling";4.8
@@ -46,7 +46,7 @@
 "45";"Ibe";4.8
 "46";"Lewis Cook";4.3
 "47";"Fraser";5.1
-"48";"Callum Wilson";5.7
+"48";"Wilson";5.7
 "49";"Afobe";5.7
 "50";"Mousset";4.9
 "51";"King";7
@@ -103,7 +103,7 @@
 "102";"Moses";6.4
 "103";"Rüdiger";5.8
 "104";"Hazard";10.9
-"105";"Fàbregas";6.9
+"105";"Fàbregas";6.8
 "106";"Willian";6.7
 "107";"Matic";4.8
 "108";"Loftus-Cheek";4.6
@@ -167,7 +167,7 @@
 "166";"Smith";4.8
 "167";"Hefele";4.2
 "168";"Cranie";4
-"169";"Stankovic";4
+"169";"Stankovic";3.9
 "170";"Hudson";4
 "171";"Zanka";4.5
 "172";"Mooy";5.4
@@ -197,9 +197,9 @@
 "196";"Chilwell";4.3
 "197";"Wagué";4.5
 "198";"Maguire";5.3
-"199";"Mahrez";8.6
+"199";"Mahrez";8.5
 "200";"Albrighton";5.5
-"201";"King";4.3
+"201";"King";4.2
 "202";"Drinkwater";4.8
 "203";"Gray";5.3
 "204";"Amartey";4.3
@@ -229,7 +229,7 @@
 "228";"Lallana";7.3
 "229";"Sheyi Ojo";5
 "230";"Mané";9.3
-"231";"Grujic";4.3
+"231";"Grujic";4.2
 "232";"Wijnaldum";6.7
 "233";"Woodburn";4.3
 "234";"Salah";10
@@ -283,7 +283,7 @@
 "282";"Pogba";7.9
 "283";"McTominay";4.3
 "284";"Rashford";7.6
-"285";"Lukaku";11.3
+"285";"Lukaku";11.4
 "286";"Elliot";4.1
 "287";"Darlow";4.4
 "288";"Yedlin";4.4
@@ -324,7 +324,7 @@
 "323";"Sims";4.3
 "324";"Redmond";6
 "325";"Long";5.6
-"326";"Austin";6.2
+"326";"Austin";6.3
 "327";"Gabbiadini";6.4
 "328";"Butland";5
 "329";"Grant";4.3
@@ -412,7 +412,7 @@
 "411";"Berghuis";5
 "412";"Amrabat";5
 "413";"Success";5.3
-"414";"Doucouré";5.4
+"414";"Doucouré";5.3
 "415";"Pereyra";5.8
 "416";"Hughes";4.6
 "417";"Deeney";6.3
@@ -441,10 +441,10 @@
 "440";"Fonte";4.8
 "441";"Collins";4.3
 "442";"Reid";4.8
-"443";"Cresswell";5
+"443";"Cresswell";5.1
 "444";"Ogbonna";4.4
 "445";"Byram";4.3
-"446";"Masuaku";4.4
+"446";"Masuaku";4.5
 "447";"Zabaleta";4.9
 "448";"Snodgrass";5.8
 "449";"Ayew";6.8
@@ -470,7 +470,7 @@
 "469";"Pope";4.8
 "470";"Christensen";5.6
 "471";"Musonda";4.8
-"472";"Morata";10.7
+"472";"Morata";10.6
 "473";"Jakupovic";4.3
 "474";"James";4.4
 "475";"Robertson";4.6
@@ -531,7 +531,7 @@
 "530";"Ward";4.5
 "531";"Oakley-Boothe";4.5
 "532";"Aurier";5.9
-"533";"Krychowiak";5
+"533";"Krychowiak";4.9
 "534";"Foyth";4.5
 "535";"Sanches";4.5
 "536";"Karnezis";4.5
