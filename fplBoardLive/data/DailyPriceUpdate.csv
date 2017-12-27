@@ -8,7 +8,7 @@
 "7";"Bellerín";5.9
 "8";"Gibbs";5
 "9";"Jenkinson";4.5
-"10";"Monreal";5.8
+"10";"Monreal";5.7
 "11";"Holding";4.5
 "12";"Mustafi";5.4
 "13";"Kolasinac";6
@@ -26,11 +26,11 @@
 "25";"Giroud";8.2
 "26";"Welbeck";7.3
 "27";"Pérez";7.4
-"28";"Lacazette";10.4
+"28";"Lacazette";10.3
 "29";"Begovic";4.5
 "30";"Boruc";4.2
 "31";"Federici";4
-"32";"Francis";4.4
+"32";"Francis";4.3
 "33";"Steve Cook";4.7
 "34";"Daniels";4.8
 "35";"Adam Smith";4.8
@@ -69,15 +69,15 @@
 "68";"Norwood";4.5
 "69";"Murphy";4.7
 "70";"Groß";5.9
-"71";"Murray";5.8
+"71";"Murray";5.7
 "72";"Hemed";4.8
 "73";"Baldock";4.9
-"74";"Heaton";4.8
+"74";"Heaton";4.7
 "75";"Robinson";4.5
 "76";"Lowton";4.5
 "77";"Mee";4.8
 "78";"Ward";4.9
-"79";"Tarkowski";4.8
+"79";"Tarkowski";4.7
 "80";"Long";4
 "81";"Taylor";4.2
 "82";"Arfield";4.9
@@ -102,7 +102,7 @@
 "101";"David Luiz";5.8
 "102";"Moses";6.4
 "103";"Rüdiger";5.8
-"104";"Hazard";10.9
+"104";"Hazard";10.8
 "105";"Fàbregas";6.8
 "106";"Willian";6.7
 "107";"Matic";4.8
@@ -117,7 +117,7 @@
 "116";"Speroni";4.1
 "117";"Tomkins";4.3
 "118";"Dann";4.7
-"119";"Ward";4.8
+"119";"Ward";4.7
 "120";"Kelly";4.2
 "121";"Delaney";4.2
 "122";"Souaré";4.5
@@ -147,7 +147,7 @@
 "146";"Keane";5.3
 "147";"Bolasie";6.4
 "148";"Mirallas";6
-"149";"Barkley";7.4
+"149";"Barkley";7.3
 "150";"McCarthy";4.9
 "151";"Barry";4.5
 "152";"Besic";4.3
@@ -159,7 +159,7 @@
 "158";"Klaassen";7
 "159";"Calvert-Lewin";5.5
 "160";"Sandro";7.1
-"161";"Rooney";7.6
+"161";"Rooney";7.5
 "162";"Coleman";4
 "163";"Lössl";4.6
 "164";"Schindler";4.6
@@ -191,7 +191,7 @@
 "190";"Hamer";4.4
 "191";"Morgan";4.5
 "192";"Fuchs";4.9
-"193";"Simpson";4.5
+"193";"Simpson";4.4
 "194";"Huth";4.8
 "195";"Benalouane";4.3
 "196";"Chilwell";4.3
@@ -218,7 +218,7 @@
 "217";"Clyne";5.3
 "218";"Gomez";4.7
 "219";"Matip";5.4
-"220";"Klavan";4.3
+"220";"Klavan";4.4
 "221";"Sakho";4.8
 "222";"Milner";6.1
 "223";"Alexander-Arnold";4.2
@@ -233,14 +233,14 @@
 "232";"Wijnaldum";6.7
 "233";"Woodburn";4.3
 "234";"Salah";10.1
-"235";"Firmino";8.8
+"235";"Firmino";8.9
 "236";"Sturridge";7.9
 "237";"Ings";5.4
 "238";"Origi";7.4
 "239";"Solanke";4.7
 "240";"Ederson";5.5
 "241";"Bravo";4.6
-"242";"Stones";5.5
+"242";"Stones";5.4
 "243";"Kolarov";5.5
 "244";"Kompany";5.8
 "245";"Otamendi";6.3
@@ -255,14 +255,14 @@
 "254";"Nolito";7
 "255";"Sané";8.6
 "256";"Bernardo Silva";7.4
-"257";"Agüero";11.5
+"257";"Agüero";11.6
 "258";"Iheanacho";6.5
 "259";"Jesus";10.1
 "260";"de Gea";5.9
 "261";"Romero";4.7
 "262";"Joel Pereira";3.9
-"263";"Smalling";5.5
-"264";"Jones";5.5
+"263";"Smalling";5.4
+"264";"Jones";5.6
 "265";"Shaw";4.9
 "266";"Rojo";5.4
 "267";"Valencia";6.9
@@ -277,7 +277,7 @@
 "276";"Carrick";4.2
 "277";"Young";5.1
 "278";"Herrera";5
-"279";"Lingard";6
+"279";"Lingard";6.1
 "280";"Martial";8
 "281";"Mkhitaryan";7.6
 "282";"Pogba";7.9
@@ -293,7 +293,7 @@
 "292";"Hanley";4
 "293";"Gámez";4
 "294";"Lejeune";4.4
-"295";"Ritchie";5.6
+"295";"Ritchie";5.5
 "296";"Shelvey";5.2
 "297";"Gouffran";5
 "298";"Diamé";4.6
@@ -305,7 +305,7 @@
 "304";"Murphy";4.5
 "305";"McCarthy";4.4
 "306";"Forster";4.9
-"307";"Bertrand";5.4
+"307";"Bertrand";5.3
 "308";"Yoshida";4.8
 "309";"Targett";4.3
 "310";"Cédric";4.8
@@ -324,7 +324,7 @@
 "323";"Sims";4.3
 "324";"Redmond";6
 "325";"Long";5.6
-"326";"Austin";6.2
+"326";"Austin";6.1
 "327";"Gabbiadini";6.4
 "328";"Butland";5
 "329";"Grant";4.2
@@ -338,15 +338,15 @@
 "337";"Allen";5.1
 "338";"Adam";4.7
 "339";"Whelan";4.5
-"340";"Arnautovic";6.8
+"340";"Arnautovic";6.9
 "341";"Afellay";4.8
-"342";"Shaqiri";6.2
+"342";"Shaqiri";6.1
 "343";"Imbula";4.5
 "344";"Bojan";5.5
 "345";"Sobhi";4.5
 "346";"Fletcher";4.9
-"347";"Crouch";4.8
-"348";"Diouf";5.6
+"347";"Crouch";4.9
+"348";"Diouf";5.5
 "349";"Berahino";5.6
 "350";"Fabianski";4.6
 "351";"Nordfeldt";4
@@ -520,7 +520,7 @@
 "519";"Clucas";4.8
 "520";"Sánchez";6
 "521";"Hadergjonaj";4.5
-"522";"Sabiri";4.9
+"522";"Sabiri";4.8
 "523";"Ibrahimovic";9.7
 "524";"Burke";5
 "525";"Hoedt";5
@@ -533,7 +533,7 @@
 "532";"Aurier";5.9
 "533";"Krychowiak";4.9
 "534";"Foyth";4.5
-"535";"Sanches";4.5
+"535";"Sanches";4.4
 "536";"Karnezis";4.5
 "537";"Zeegelaar";4.4
 "538";"Schelotto";4.4
