@@ -115,7 +115,7 @@
 "114";"Costa";9.5
 "115";"Hennessey";4.3
 "116";"Speroni";4.1
-"117";"Tomkins";4.3
+"117";"Tomkins";4.4
 "118";"Dann";4.7
 "119";"Ward";4.7
 "120";"Kelly";4.2
@@ -338,7 +338,7 @@
 "337";"Allen";5.1
 "338";"Adam";4.7
 "339";"Whelan";4.5
-"340";"Arnautovic";7
+"340";"Arnautovic";7.1
 "341";"Afellay";4.8
 "342";"Shaqiri";6
 "343";"Imbula";4.5
@@ -601,3 +601,4 @@
 "600";"Sterling";4.5
 "601";"Diabaté";5
 "602";"Taylor";4.5
+"603";"Obafemi";4.5
