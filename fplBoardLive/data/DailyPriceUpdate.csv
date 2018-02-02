@@ -46,7 +46,7 @@
 "45";"Ibe";4.8
 "46";"Lewis Cook";4.3
 "47";"Fraser";5.1
-"48";"Wilson";5.8
+"48";"Wilson";5.9
 "49";"Afobe";5.7
 "50";"Mousset";4.9
 "51";"King";7
@@ -157,7 +157,7 @@
 "156";"Davies";5.1
 "157";"Lookman";5.1
 "158";"Klaassen";6.9
-"159";"Calvert-Lewin";5.3
+"159";"Calvert-Lewin";5.2
 "160";"Sandro";7
 "161";"Rooney";7.3
 "162";"Coleman";3.9
@@ -185,7 +185,7 @@
 "184";"Williams";4.8
 "185";"Wells";4.9
 "186";"Quaner";4.6
-"187";"Depoitre";5.5
+"187";"Depoitre";5.4
 "188";"Mounie";5.7
 "189";"Schmeichel";5
 "190";"Hamer";4.4
@@ -209,9 +209,9 @@
 "208";"Iborra";5.7
 "209";"Vardy";8.6
 "210";"Ulloa";4.8
-"211";"Okazaki";5.5
+"211";"Okazaki";5.4
 "212";"Slimani";6.6
-"213";"Mignolet";4.9
+"213";"Mignolet";4.8
 "214";"Karius";4.8
 "215";"Lovren";5.3
 "216";"Moreno";4.4
@@ -344,7 +344,7 @@
 "343";"Imbula";4.5
 "344";"Bojan";5.5
 "345";"Sobhi";4.5
-"346";"Fletcher";4.9
+"346";"Fletcher";4.8
 "347";"Crouch";4.9
 "348";"Diouf";5.4
 "349";"Berahino";5.6
@@ -371,7 +371,7 @@
 "370";"Mesa";4.2
 "371";"Llorente";7.3
 "372";"McBurnie";4.6
-"373";"Jordan Ayew";5.2
+"373";"Jordan Ayew";5.3
 "374";"Abraham";5.5
 "375";"Lloris";5.4
 "376";"Vorm";4.8
@@ -386,7 +386,7 @@
 "385";"Dembélé";4.9
 "386";"Lamela";6.3
 "387";"Eriksen";9.2
-"388";"Alli";9
+"388";"Alli";8.9
 "389";"Wanyama";4.8
 "390";"Son";8.1
 "391";"Winks";4.8
@@ -405,7 +405,7 @@
 "404";"Janmaat";4.8
 "405";"Mariappa";4.1
 "406";"Mason";3.9
-"407";"Kiko Femenía";4.4
+"407";"Kiko Femenía";4.3
 "408";"Cleverley";5
 "409";"Capoue";4.8
 "410";"Behrami";4.5
@@ -451,7 +451,7 @@
 "450";"Noble";5.3
 "451";"Kouyaté";5
 "452";"Obiang";4.4
-"453";"Lanzini";6.8
+"453";"Lanzini";6.7
 "454";"Antonio";7.4
 "455";"Feghouli";5.5
 "456";"Fernandes";4.4
@@ -590,10 +590,10 @@
 "589";"Silva";6
 "590";"Ireland";4.5
 "591";"Kongolo";4.4
-"592";"Tosun";7.4
+"592";"Tosun";7.3
 "593";"Pritchard";5.5
 "594";"Bauer";4.5
-"595";"Mavropanos";4.5
+"595";"Mavropanos";4.4
 "596";"Burke";4
 "597";"Cullen";4.5
 "598";"Roberts";4
@@ -618,3 +618,6 @@
 "617";"Lucas Moura";8
 "618";"Ndong";4.5
 "619";"Badou Ndiaye";5.5
+"620";"Sørloth";5.5
+"621";"Dubravka";4.5
+"622";"Hugill";5.5
