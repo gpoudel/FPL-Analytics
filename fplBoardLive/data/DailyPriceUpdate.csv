@@ -12,7 +12,7 @@
 "11";"Holding";4.5
 "12";"Mustafi";5.5
 "13";"Kolasinac";5.9
-"14";"Sánchez";11.7
+"14";"Sánchez";11.8
 "15";"Walcott";7.2
 "16";"Özil";9.3
 "17";"Cazorla";6.9
@@ -22,7 +22,7 @@
 "21";"Iwobi";5.1
 "22";"Elneny";4.2
 "23";"Xhaka";5.2
-"24";"Wilshere";5.5
+"24";"Wilshere";5.4
 "25";"Giroud";8.2
 "26";"Welbeck";7.3
 "27";"Pérez";7.4
@@ -36,7 +36,7 @@
 "35";"Adam Smith";4.8
 "36";"Mings";4.3
 "37";"Brad Smith";3.9
-"38";"Aké";4.9
+"38";"Aké";5
 "39";"Arter";4.7
 "40";"Pugh";4.7
 "41";"Surman";4.6
@@ -143,7 +143,7 @@
 "142";"Funes Mori";4.9
 "143";"Williams";5.2
 "144";"Holgate";4.3
-"145";"Kenny";4.5
+"145";"Kenny";4.4
 "146";"Keane";5.3
 "147";"Bolasie";6.4
 "148";"Mirallas";6
@@ -169,7 +169,7 @@
 "168";"Cranie";4
 "169";"Stankovic";3.9
 "170";"Hudson";4
-"171";"Zanka";4.6
+"171";"Zanka";4.5
 "172";"Mooy";5.4
 "173";"van La Parra";4.8
 "174";"Hogg";4.4
@@ -245,12 +245,12 @@
 "244";"Kompany";5.8
 "245";"Otamendi";6.5
 "246";"Delph";4.5
-"247";"Sterling";8.9
+"247";"Sterling";9
 "248";"David Silva";8
 "249";"Yaya Touré";6
 "250";"Fernandinho";5.1
 "251";"Fernando";4.5
-"252";"De Bruyne";10.2
+"252";"De Bruyne";10.3
 "253";"Gündogan";5.3
 "254";"Nolito";7
 "255";"Sané";8.3
@@ -265,7 +265,7 @@
 "264";"Jones";5.7
 "265";"Shaw";4.9
 "266";"Rojo";5.4
-"267";"Valencia";6.7
+"267";"Valencia";6.8
 "268";"Darmian";4.9
 "269";"Fosu-Mensah";4.4
 "270";"Blind";5.1
@@ -279,7 +279,7 @@
 "278";"Herrera";5
 "279";"Lingard";6.3
 "280";"Martial";8.1
-"281";"Mkhitaryan";7.6
+"281";"Mkhitaryan";7.7
 "282";"Pogba";8
 "283";"McTominay";4.2
 "284";"Rashford";7.5
@@ -435,7 +435,7 @@
 "434";"Brunt";5
 "435";"Rondón";6
 "436";"Robson-Kanu";4.9
-"437";"Rodriguez";5.5
+"437";"Rodriguez";5.6
 "438";"Adrián";4.4
 "439";"Randolph";4.5
 "440";"Fonte";4.7
@@ -468,7 +468,7 @@
 "467";"Aarons";4.3
 "468";"Hegazi";4.6
 "469";"Pope";4.8
-"470";"Christensen";5.5
+"470";"Christensen";5.4
 "471";"Musonda";4.8
 "472";"Morata";10.4
 "473";"Jakupovic";4.2
@@ -499,7 +499,7 @@
 "498";"Walker-Peters";4
 "499";"Sinclair";4.9
 "500";"Lemina";4.8
-"501";"Richarlison";6.3
+"501";"Richarlison";6.2
 "502";"Mangala";5
 "503";"Tomori";4.5
 "504";"Scott";4.3
@@ -590,7 +590,7 @@
 "589";"Silva";6
 "590";"Ireland";4.5
 "591";"Kongolo";4.4
-"592";"Tosun";7.3
+"592";"Tosun";7.2
 "593";"Pritchard";5.5
 "594";"Bauer";4.5
 "595";"Mavropanos";4.4
