@@ -7,7 +7,7 @@
 6;"Gabriel";5
 7;"Bellerín";6
 9;"Jenkinson";4.5
-10;"Monreal";5.7
+10;"Monreal";5.6
 11;"Holding";4.4
 12;"Mustafi";5.4
 13;"Kolasinac";5.8
@@ -132,7 +132,7 @@
 103;"Rüdiger";5.9
 104;"Hazard";10.7
 105;"Fàbregas";6.8
-106;"Willian";6.8
+106;"Willian";6.9
 109;"Pedro";7.7
 111;"Kanté";4.9
 113;"Batshuayi";8.1
@@ -188,7 +188,7 @@
 606;"Rakip";5
 620;"Sørloth";5.5
 630;"Kirby";4.5
-15;"Walcott";7.3
+15;"Walcott";7.2
 135;"Pickford";4.9
 136;"Robles";4.2
 137;"Stekelenburg";4.2
@@ -198,7 +198,7 @@
 141;"Pennington";4
 142;"Funes Mori";4.9
 143;"Williams";5.2
-144;"Holgate";4.2
+144;"Holgate";4.1
 145;"Kenny";4.3
 146;"Keane";5.3
 147;"Bolasie";6.4
@@ -216,7 +216,7 @@
 359;"Sigurdsson";8
 464;"Martina";4.4
 502;"Mangala";5
-539;"Vlasic";5.4
+539;"Vlasic";5.3
 548;"Niasse";4.9
 563;"Baningime";4.5
 592;"Tosun";6.7
@@ -287,7 +287,7 @@
 217;"Clyne";5.3
 218;"Gomez";4.7
 219;"Matip";5.4
-220;"Klavan";4.3
+220;"Klavan";4.2
 222;"Milner";6
 223;"Alexander-Arnold";4.3
 224;"Lucas";4.5
@@ -301,12 +301,12 @@
 232;"Wijnaldum";6.6
 233;"Woodburn";4.2
 234;"Salah";10.5
-235;"Firmino";9.3
+235;"Firmino";9.4
 237;"Ings";5.4
 238;"Origi";7.4
-239;"Solanke";4.7
+239;"Solanke";4.6
 311;"van Dijk";5.6
-475;"Robertson";4.8
+475;"Robertson";4.9
 514;"Flanagan";4.4
 530;"Ward";4.4
 240;"Ederson";5.6
@@ -457,7 +457,7 @@
 590;"Ireland";4.5
 594;"Bauer";4.5
 599;"Stafylidis";4.4
-619;"Badou Ndiaye";5.5
+619;"Badou Ndiaye";5.4
 628;"Campbell";4.5
 201;"King";4.2
 350;"Fabianski";4.7
@@ -505,7 +505,7 @@
 387;"Eriksen";9.3
 388;"Alli";8.9
 389;"Wanyama";4.8
-390;"Son";8.1
+390;"Son";8
 391;"Winks";4.8
 393;"Sissoko";5.3
 394;"Kane";12.9
@@ -551,10 +551,10 @@
 501;"Richarlison";6.1
 527;"Carrillo";5.5
 536;"Karnezis";4.5
-537;"Zeegelaar";4.3
+537;"Zeegelaar";4.2
 581;"Folivi";4.5
 582;"Bachmann";4
-609;"Deulofeu";6
+609;"Deulofeu";5.9
 613;"Stewart";4.5
 615;"Lukebakio";5
 618;"Ndong";4.5
@@ -591,7 +591,7 @@
 578;"Ferguson";4
 610;"Gabr";4.5
 624;"Jameson";4
-340;"Arnautovic";6.9
+340;"Arnautovic";7
 438;"Adrián";4.4
 439;"Randolph";4.5
 440;"Fonte";4.7
@@ -609,7 +609,7 @@
 453;"Lanzini";6.6
 454;"Antonio";7.4
 455;"Feghouli";5.5
-456;"Fernandes";4.4
+456;"Fernandes";4.3
 457;"Carroll";5.7
 458;"Sakho";5.5
 459;"Fletcher";4.5
@@ -625,7 +625,7 @@
 580;"Makasi";4.5
 596;"Burke";4
 597;"Cullen";4.5
-608;"João Mário";6.4
+608;"João Mário";6.3
 611;"Oxford";4.5
-622;"Hugill";5.4
+622;"Hugill";5.3
 626;"Evra";4.5
