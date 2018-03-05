@@ -43,11 +43,11 @@
 38;"Aké";5
 39;"Arter";4.7
 40;"Pugh";4.7
-41;"Surman";4.5
+41;"Surman";4.4
 42;"Stanislas";5.9
 43;"Gosling";4.8
 44;"Gradel";5
-45;"Ibe";4.9
+45;"Ibe";4.8
 46;"Lewis Cook";4.3
 47;"Fraser";5.1
 48;"Wilson";5.9
@@ -152,6 +152,7 @@
 583;"Hudson-Odoi";4.5
 600;"Sterling";4.5
 614;"Emerson";5.4
+632;"Chalobah";4
 108;"Loftus-Cheek";4.4
 115;"Hennessey";4.3
 116;"Speroni";4.1
@@ -248,7 +249,7 @@
 188;"Mounie";5.7
 462;"Malone";4.3
 521;"Hadergjonaj";4.5
-522;"Sabiri";4.8
+522;"Sabiri";4.7
 547;"Green";4
 591;"Kongolo";4.4
 593;"Pritchard";5.4
@@ -392,7 +393,7 @@
 477;"Manquillo";4.3
 478;"Murphy";5
 488;"Joselu";5.5
-494;"Mbemba";3.9
+494;"Mbemba";4
 495;"Merino";5
 496;"Hayden";4.4
 516;"Saivet";4.4
@@ -497,7 +498,7 @@
 377;"Alderweireld";5.8
 378;"Rose";6.4
 380;"Vertonghen";6
-381;"Davies";5.8
+381;"Davies";5.9
 382;"Trippier";5.3
 384;"Dier";4.7
 385;"Dembélé";4.9
@@ -531,7 +532,7 @@
 402;"Britos";4.3
 403;"Kabasele";4.5
 404;"Janmaat";4.8
-405;"Mariappa";4.1
+405;"Mariappa";4.2
 406;"Mason";3.9
 407;"Kiko Femenía";4.3
 408;"Cleverley";5
