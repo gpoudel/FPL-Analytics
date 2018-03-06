@@ -83,7 +83,7 @@
 72;"Hemed";4.7
 73;"Baldock";4.9
 210;"Ulloa";4.8
-461;"Suttner";4.3
+461;"Suttner";4.2
 481;"Brown";5.2
 490;"Pröpper";5.3
 517;"Izquierdo";5.9
@@ -189,6 +189,7 @@
 606;"Rakip";5
 620;"Sørloth";5.5
 630;"Kirby";4.5
+633;"Cavalieri";4
 15;"Walcott";7.2
 135;"Pickford";4.9
 136;"Robles";4.2
@@ -301,7 +302,7 @@
 231;"Grujic";4.2
 232;"Wijnaldum";6.6
 233;"Woodburn";4.2
-234;"Salah";10.5
+234;"Salah";10.6
 235;"Firmino";9.4
 237;"Ings";5.4
 238;"Origi";7.4
@@ -555,7 +556,7 @@
 537;"Zeegelaar";4.2
 581;"Folivi";4.5
 582;"Bachmann";4
-609;"Deulofeu";5.9
+609;"Deulofeu";5.8
 613;"Stewart";4.5
 615;"Lukebakio";5
 618;"Ndong";4.5
@@ -626,7 +627,7 @@
 580;"Makasi";4.5
 596;"Burke";4
 597;"Cullen";4.5
-608;"João Mário";6.3
+608;"João Mário";6.2
 611;"Oxford";4.5
 622;"Hugill";5.3
 626;"Evra";4.4
