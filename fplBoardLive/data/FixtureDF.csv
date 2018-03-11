@@ -27,30 +27,30 @@
 "26";26;"STK(H)";"SOU(H)";"NEW(A)";"WHU(H)";"MUN(A)";"BUR(H)";"HUD(A)";"LEI(A)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 3";" 2";" 3";NA;NA
 "27";27;"STK(H)";"SOU(H)";"NEW(A)";"WHU(H)";"MUN(A)";"BUR(H)";"HUD(A)";"LEI(A)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 3";" 2";" 3";NA;NA
 "28";28;"STK(H)";"SOU(H)";"NEW(A)";"WHU(H)";"MUN(A)";"BUR(H)";"HUD(A)";"LEI(A)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 3";" 2";" 3";NA;NA
-"29";29;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"30";30;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"31";31;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"32";32;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"33";33;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"34";34;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"35";35;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"36";36;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"37";37;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"38";38;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"39";39;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"40";40;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"41";41;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"42";42;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"43";43;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"44";44;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"45";45;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"46";46;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"47";47;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"48";48;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"49";49;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"50";50;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"51";51;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"52";52;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
+"29";29;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"30";30;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"31";31;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"32";32;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"33";33;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"34";34;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"35";35;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"36";36;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"37";37;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"38";38;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"39";39;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"40";40;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"41";41;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"42";42;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"43";43;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"44";44;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"45";45;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"46";46;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"47";47;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"48";48;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"49";49;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"50";50;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"51";51;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"52";52;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
 "53";53;"LEI(H)";"HUD(H)";"CRY(A)";"TOT(H)";"BUR(A)";"MUN(H)";"LIV(A)";"MCI(A)";NA;NA;" 3";" 2";" 3";" 4";" 3";" 4";" 4";" 5";NA;NA
 "54";54;"LEI(H)";"HUD(H)";"CRY(A)";"TOT(H)";"BUR(A)";"MUN(H)";"LIV(A)";"MCI(A)";NA;NA;" 3";" 2";" 3";" 4";" 3";" 4";" 4";" 5";NA;NA
 "55";55;"LEI(H)";"HUD(H)";"CRY(A)";"TOT(H)";"BUR(A)";"MUN(H)";"LIV(A)";"MCI(A)";NA;NA;" 3";" 2";" 3";" 4";" 3";" 4";" 4";" 5";NA;NA
@@ -369,31 +369,31 @@
 "368";368;"MUN(A)";"WBA(A)";"EVE(H)";"MCI(A)";"CHE(H)";"BOU(A)";"STK(H)";"SOU(H)";NA;NA;" 4";" 2";" 2";" 5";" 4";" 3";" 2";" 2";NA;NA
 "369";369;"MUN(A)";"WBA(A)";"EVE(H)";"MCI(A)";"CHE(H)";"BOU(A)";"STK(H)";"SOU(H)";NA;NA;" 4";" 2";" 2";" 5";" 4";" 3";" 2";" 2";NA;NA
 "370";370;"MUN(A)";"WBA(A)";"EVE(H)";"MCI(A)";"CHE(H)";"BOU(A)";"STK(H)";"SOU(H)";NA;NA;" 4";" 2";" 2";" 5";" 4";" 3";" 2";" 2";NA;NA
-"371";371;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"371";371;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "372";372;"MUN(A)";"WBA(A)";"EVE(H)";"MCI(A)";"CHE(H)";"BOU(A)";"STK(H)";"SOU(H)";NA;NA;" 4";" 2";" 2";" 5";" 4";" 3";" 2";" 2";NA;NA
 "373";373;"MUN(A)";"WBA(A)";"EVE(H)";"MCI(A)";"CHE(H)";"BOU(A)";"STK(H)";"SOU(H)";NA;NA;" 4";" 2";" 2";" 5";" 4";" 3";" 2";" 2";NA;NA
 "374";374;"MUN(A)";"WBA(A)";"EVE(H)";"MCI(A)";"CHE(H)";"BOU(A)";"STK(H)";"SOU(H)";NA;NA;" 4";" 2";" 2";" 5";" 4";" 3";" 2";" 2";NA;NA
-"375";375;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"376";376;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"377";377;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"378";378;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"375";375;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"376";376;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"377";377;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"378";378;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "379";379;"STK(A)";"EVE(A)";"MUN(H)";"TOT(A)";"SWA(H)";"WHU(A)";"HUD(H)";"SOU(A)";"BHA(H)";NA;" 3";" 3";" 4";" 5";" 2";" 3";" 2";" 2";" 2";NA
-"380";380;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"381";381;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"382";382;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"380";380;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"381";381;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"382";382;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "383";383;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
-"384";384;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"385";385;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"386";386;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"387";387;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"388";388;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"389";389;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"390";390;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"391";391;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"384";384;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"385";385;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"386";386;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"387";387;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"388";388;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"389";389;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"390";390;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"391";391;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "392";392;"WBA(A)";"WAT(A)";"LEI(H)";"STK(A)";"BHA(H)";"ARS(A)";"BOU(H)";"CHE(H)";NA;NA;" 2";" 2";" 3";" 3";" 2";" 4";" 2";" 4";NA;NA
-"393";393;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"394";394;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"395";395;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"393";393;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"394";394;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"395";395;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "396";396;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
 "397";397;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
 "398";398;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
@@ -496,7 +496,7 @@
 "495";495;"HUD(H)";"LEI(A)";"ARS(H)";"EVE(A)";"WBA(H)";"WAT(A)";"CHE(H)";"TOT(A)";NA;NA;" 2";" 3";" 4";" 3";" 2";" 2";" 4";" 5";NA;NA
 "496";496;"HUD(H)";"LEI(A)";"ARS(H)";"EVE(A)";"WBA(H)";"WAT(A)";"CHE(H)";"TOT(A)";NA;NA;" 2";" 3";" 4";" 3";" 2";" 2";" 4";" 5";NA;NA
 "497";497;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
-"498";498;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"498";498;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "499";499;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
 "500";500;"WHU(A)";"ARS(A)";"CHE(H)";"LEI(A)";"BOU(H)";"EVE(A)";"MCI(H)";"SWA(A)";NA;NA;" 3";" 4";" 4";" 3";" 2";" 3";" 5";" 2";NA;NA
 "501";501;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
@@ -509,7 +509,7 @@
 "508";508;"BOU(A)";"BUR(H)";"SWA(H)";"MUN(A)";"LIV(H)";"NEW(A)";"TOT(H)";"CRY(A)";NA;NA;" 3";" 3";" 2";" 4";" 4";" 2";" 4";" 3";NA;NA
 "509";509;"TOT(H)";"WHU(H)";"SOU(A)";"HUD(H)";"SWA(A)";"LIV(H)";"NEW(A)";"BUR(A)";NA;NA;" 4";" 2";" 2";" 2";" 2";" 4";" 2";" 3";NA;NA
 "510";510;"SOU(H)";"CHE(A)";"STK(H)";"ARS(A)";"MCI(H)";"LEI(A)";"EVE(H)";"MUN(H)";NA;NA;" 2";" 4";" 2";" 4";" 5";" 3";" 2";" 4";NA;NA
-"511";511;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"511";511;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "512";512;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
 "513";513;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
 "514";514;"WAT(H)";"CRY(A)";"EVE(A)";"BOU(H)";"WBA(A)";"STK(H)";"CHE(A)";"BHA(H)";NA;NA;" 2";" 3";" 3";" 2";" 2";" 2";" 4";" 2";NA;NA
@@ -518,7 +518,7 @@
 "517";517;"LEI(H)";"HUD(H)";"CRY(A)";"TOT(H)";"BUR(A)";"MUN(H)";"LIV(A)";"MCI(A)";NA;NA;" 3";" 2";" 3";" 4";" 3";" 4";" 4";" 5";NA;NA
 "518";518;"WBA(A)";"WAT(A)";"LEI(H)";"STK(A)";"BHA(H)";"ARS(A)";"BOU(H)";"CHE(H)";NA;NA;" 2";" 2";" 3";" 3";" 2";" 4";" 2";" 4";NA;NA
 "519";519;"MUN(A)";"WBA(A)";"EVE(H)";"MCI(A)";"CHE(H)";"BOU(A)";"STK(H)";"SOU(H)";NA;NA;" 4";" 2";" 2";" 5";" 4";" 3";" 2";" 2";NA;NA
-"520";520;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"520";520;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "521";521;"CRY(H)";"NEW(A)";"BHA(A)";"WAT(H)";"CHE(A)";"EVE(H)";"MCI(A)";"ARS(H)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 2";" 5";" 4";NA;NA
 "522";522;"CRY(H)";"NEW(A)";"BHA(A)";"WAT(H)";"CHE(A)";"EVE(H)";"MCI(A)";"ARS(H)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 2";" 5";" 4";NA;NA
 "523";523;"SWA(H)";"MCI(A)";"WBA(H)";"BOU(A)";"ARS(H)";"BHA(A)";"WAT(H)";"WHU(A)";NA;NA;" 2";" 5";" 2";" 3";" 4";" 2";" 2";" 3";NA;NA
@@ -529,10 +529,10 @@
 "528";528;"HUD(A)";"LIV(H)";"BOU(A)";"BHA(H)";"WAT(A)";"LEI(H)";"STK(A)";"WBA(H)";NA;NA;" 2";" 4";" 3";" 2";" 2";" 3";" 3";" 2";NA;NA
 "529";529;"HUD(H)";"LEI(A)";"ARS(H)";"EVE(A)";"WBA(H)";"WAT(A)";"CHE(H)";"TOT(A)";NA;NA;" 2";" 3";" 4";" 3";" 2";" 2";" 4";" 5";NA;NA
 "530";530;"WAT(H)";"CRY(A)";"EVE(A)";"BOU(H)";"WBA(A)";"STK(H)";"CHE(A)";"BHA(H)";NA;NA;" 2";" 3";" 3";" 2";" 2";" 2";" 4";" 2";NA;NA
-"531";531;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"532";532;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"531";531;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"532";532;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "533";533;"BOU(A)";"BUR(H)";"SWA(H)";"MUN(A)";"LIV(H)";"NEW(A)";"TOT(H)";"CRY(A)";NA;NA;" 3";" 3";" 2";" 4";" 4";" 2";" 4";" 3";NA;NA
-"534";534;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"534";534;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "535";535;"MUN(A)";"WBA(A)";"EVE(H)";"MCI(A)";"CHE(H)";"BOU(A)";"STK(H)";"SOU(H)";NA;NA;" 4";" 2";" 2";" 5";" 4";" 3";" 2";" 2";NA;NA
 "536";536;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
 "537";537;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
@@ -547,7 +547,7 @@
 "546";546;"STK(H)";"SOU(H)";"NEW(A)";"WHU(H)";"MUN(A)";"BUR(H)";"HUD(A)";"LEI(A)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 3";" 2";" 3";NA;NA
 "547";547;"CRY(H)";"NEW(A)";"BHA(A)";"WAT(H)";"CHE(A)";"EVE(H)";"MCI(A)";"ARS(H)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 2";" 5";" 4";NA;NA
 "548";548;"STK(A)";"MCI(H)";"LIV(H)";"SWA(A)";"NEW(H)";"HUD(A)";"SOU(H)";"WHU(A)";NA;NA;" 3";" 5";" 4";" 2";" 2";" 2";" 2";" 3";NA;NA
-"549";549;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
+"549";549;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
 "550";550;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
 "551";551;"STK(A)";"EVE(A)";"MUN(H)";"TOT(A)";"SWA(H)";"WHU(A)";"HUD(H)";"SOU(A)";"BHA(H)";NA;" 3";" 3";" 4";" 5";" 2";" 3";" 2";" 2";" 2";NA
 "552";552;"HUD(A)";"LIV(H)";"BOU(A)";"BHA(H)";"WAT(A)";"LEI(H)";"STK(A)";"WBA(H)";NA;NA;" 2";" 4";" 3";" 2";" 2";" 3";" 3";" 2";NA;NA
@@ -563,12 +563,12 @@
 "562";562;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
 "563";563;"STK(A)";"MCI(H)";"LIV(H)";"SWA(A)";"NEW(H)";"HUD(A)";"SOU(H)";"WHU(A)";NA;NA;" 3";" 5";" 4";" 2";" 2";" 2";" 2";" 3";NA;NA
 "564";564;"STK(H)";"SOU(H)";"NEW(A)";"WHU(H)";"MUN(A)";"BUR(H)";"HUD(A)";"LEI(A)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 3";" 2";" 3";NA;NA
-"565";565;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
-"566";566;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"565";565;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
+"566";566;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "567";567;"SOU(H)";"CHE(A)";"STK(H)";"ARS(A)";"MCI(H)";"LEI(A)";"EVE(H)";"MUN(H)";NA;NA;" 2";" 4";" 2";" 4";" 5";" 3";" 2";" 4";NA;NA
 "568";568;"SOU(H)";"CHE(A)";"STK(H)";"ARS(A)";"MCI(H)";"LEI(A)";"EVE(H)";"MUN(H)";NA;NA;" 2";" 4";" 2";" 4";" 5";" 3";" 2";" 4";NA;NA
 "569";569;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
-"570";570;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
+"570";570;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
 "571";571;"BHA(A)";"NEW(H)";"BUR(A)";"SOU(H)";"CRY(A)";"WHU(H)";"TOT(A)";"ARS(H)";NA;NA;" 2";" 2";" 3";" 2";" 3";" 2";" 5";" 4";NA;NA
 "572";572;"BOU(A)";"BUR(H)";"SWA(H)";"MUN(A)";"LIV(H)";"NEW(A)";"TOT(H)";"CRY(A)";NA;NA;" 3";" 3";" 2";" 4";" 4";" 2";" 4";" 3";NA;NA
 "573";573;"SOU(H)";"CHE(A)";"STK(H)";"ARS(A)";"MCI(H)";"LEI(A)";"EVE(H)";"MUN(H)";NA;NA;" 2";" 4";" 2";" 4";" 5";" 3";" 2";" 4";NA;NA
@@ -582,11 +582,11 @@
 "581";581;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
 "582";582;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
 "583";583;"TOT(H)";"WHU(H)";"SOU(A)";"HUD(H)";"SWA(A)";"LIV(H)";"NEW(A)";"BUR(A)";NA;NA;" 4";" 2";" 2";" 2";" 2";" 4";" 2";" 3";NA;NA
-"584";584;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
-"585";585;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
+"584";584;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
+"585";585;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
 "586";586;"STK(A)";"EVE(A)";"MUN(H)";"TOT(A)";"SWA(H)";"WHU(A)";"HUD(H)";"SOU(A)";"BHA(H)";NA;" 3";" 3";" 4";" 5";" 2";" 3";" 2";" 2";" 2";NA
 "587";587;"BHA(A)";"NEW(H)";"BUR(A)";"SOU(H)";"CRY(A)";"WHU(H)";"TOT(A)";"ARS(H)";NA;NA;" 2";" 2";" 3";" 2";" 3";" 2";" 5";" 4";NA;NA
-"588";588;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
+"588";588;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
 "589";589;"BHA(A)";"NEW(H)";"BUR(A)";"SOU(H)";"CRY(A)";"WHU(H)";"TOT(A)";"ARS(H)";NA;NA;" 2";" 2";" 3";" 2";" 3";" 2";" 5";" 4";NA;NA
 "590";590;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
 "591";591;"CRY(H)";"NEW(A)";"BHA(A)";"WAT(H)";"CHE(A)";"EVE(H)";"MCI(A)";"ARS(H)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 2";" 5";" 4";NA;NA
@@ -600,7 +600,7 @@
 "599";599;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
 "600";600;"TOT(H)";"WHU(H)";"SOU(A)";"HUD(H)";"SWA(A)";"LIV(H)";"NEW(A)";"BUR(A)";NA;NA;" 4";" 2";" 2";" 2";" 2";" 4";" 2";" 3";NA;NA
 "601";601;"BHA(A)";"NEW(H)";"BUR(A)";"SOU(H)";"CRY(A)";"WHU(H)";"TOT(A)";"ARS(H)";NA;NA;" 2";" 2";" 3";" 2";" 3";" 2";" 5";" 4";NA;NA
-"602";602;"TOT(H)";"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;" 4";" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA
+"602";602;"WBA(H)";"WAT(A)";"CRY(H)";"LIV(A)";"MUN(H)";"SOU(A)";"SWA(H)";"BUR(A)";NA;NA;" 2";" 2";" 2";" 4";" 4";" 2";" 2";" 3";NA;NA
 "603";603;"WHU(A)";"ARS(A)";"CHE(H)";"LEI(A)";"BOU(H)";"EVE(A)";"MCI(H)";"SWA(A)";NA;NA;" 3";" 4";" 4";" 3";" 2";" 3";" 5";" 2";NA;NA
 "604";604;"LEI(H)";"HUD(H)";"CRY(A)";"TOT(H)";"BUR(A)";"MUN(H)";"LIV(A)";"MCI(A)";NA;NA;" 3";" 2";" 3";" 4";" 3";" 4";" 4";" 5";NA;NA
 "605";605;"HUD(A)";"LIV(H)";"BOU(A)";"BHA(H)";"WAT(A)";"LEI(H)";"STK(A)";"WBA(H)";NA;NA;" 2";" 4";" 3";" 2";" 2";" 3";" 3";" 2";NA;NA
@@ -615,7 +615,7 @@
 "614";614;"TOT(H)";"WHU(H)";"SOU(A)";"HUD(H)";"SWA(A)";"LIV(H)";"NEW(A)";"BUR(A)";NA;NA;" 4";" 2";" 2";" 2";" 2";" 4";" 2";" 3";NA;NA
 "615";615;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
 "616";616;"STK(H)";"SOU(H)";"NEW(A)";"WHU(H)";"MUN(A)";"BUR(H)";"HUD(A)";"LEI(A)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 3";" 2";" 3";NA;NA
-"617";617;"BOU(A)";"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;" 3";" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA
+"617";617;"CHE(A)";"STK(A)";"MCI(H)";"BHA(A)";"WAT(H)";"WBA(A)";"LEI(H)";"NEW(H)";NA;NA;" 4";" 3";" 5";" 2";" 2";" 2";" 3";" 2";NA;NA
 "618";618;"LIV(A)";"BOU(H)";"BUR(H)";"HUD(A)";"CRY(H)";"TOT(A)";"NEW(H)";"MUN(A)";NA;NA;" 4";" 2";" 3";" 2";" 2";" 5";" 2";" 4";NA;NA
 "619";619;"MCI(H)";"EVE(H)";"ARS(A)";"TOT(H)";"WHU(A)";"BUR(H)";"LIV(A)";"CRY(H)";"SWA(A)";NA;" 5";" 2";" 4";" 4";" 3";" 3";" 4";" 2";" 2";NA
 "620";620;"HUD(A)";"LIV(H)";"BOU(A)";"BHA(H)";"WAT(A)";"LEI(H)";"STK(A)";"WBA(H)";NA;NA;" 2";" 4";" 3";" 2";" 2";" 3";" 3";" 2";NA;NA
@@ -632,3 +632,4 @@
 "631";631;"SOU(H)";"CHE(A)";"STK(H)";"ARS(A)";"MCI(H)";"LEI(A)";"EVE(H)";"MUN(H)";NA;NA;" 2";" 4";" 2";" 4";" 5";" 3";" 2";" 4";NA;NA
 "632";632;"TOT(H)";"WHU(H)";"SOU(A)";"HUD(H)";"SWA(A)";"LIV(H)";"NEW(A)";"BUR(A)";NA;NA;" 4";" 2";" 2";" 2";" 2";" 4";" 2";" 3";NA;NA
 "633";633;"HUD(A)";"LIV(H)";"BOU(A)";"BHA(H)";"WAT(A)";"LEI(H)";"STK(A)";"WBA(H)";NA;NA;" 2";" 4";" 3";" 2";" 2";" 3";" 3";" 2";NA;NA
+"634";634;"STK(H)";"SOU(H)";"NEW(A)";"WHU(H)";"MUN(A)";"BUR(H)";"HUD(A)";"LEI(A)";NA;NA;" 2";" 2";" 2";" 2";" 4";" 3";" 2";" 3";NA;NA
