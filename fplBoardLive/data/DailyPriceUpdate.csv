@@ -78,7 +78,7 @@
 67;"Skalak";4.7
 68;"Norwood";4.5
 69;"Murphy";4.7
-70;"Groß";5.9
+70;"Groß";6
 71;"Murray";5.9
 72;"Hemed";4.7
 73;"Baldock";4.9
@@ -107,7 +107,7 @@
 87;"Brady";5.3
 88;"Westwood";4.3
 89;"Walters";5.1
-90;"Cork";4.6
+90;"Cork";4.5
 91;"Vokes";5.7
 93;"Barnes";5.2
 153;"Lennon";5.4
@@ -128,7 +128,7 @@
 98;"Cahill";6.2
 100;"Alonso";7.2
 101;"David Luiz";5.7
-102;"Moses";6.4
+102;"Moses";6.5
 103;"Rüdiger";5.9
 104;"Hazard";10.6
 105;"Fàbregas";6.8
@@ -318,7 +318,7 @@
 244;"Kompany";5.8
 245;"Otamendi";6.4
 246;"Delph";4.5
-247;"Sterling";8.7
+247;"Sterling";8.6
 248;"David Silva";8
 249;"Yaya Touré";6
 250;"Fernandinho";5
@@ -359,9 +359,9 @@
 276;"Carrick";4.2
 277;"Young";4.9
 278;"Herrera";5
-279;"Lingard";6.1
+279;"Lingard";6
 280;"Martial";7.9
-282;"Pogba";7.9
+282;"Pogba";7.8
 283;"McTominay";4.2
 284;"Rashford";7.3
 285;"Lukaku";11.2
@@ -426,7 +426,7 @@
 506;"Taylor";4
 525;"Hoedt";5
 603;"Obafemi";4.5
-607;"Carrillo";6.5
+607;"Carrillo";6.4
 99;"Zouma";5.4
 328;"Butland";5
 329;"Grant";4.2
@@ -459,7 +459,7 @@
 590;"Ireland";4.5
 594;"Bauer";4.5
 599;"Stafylidis";4.4
-619;"Badou Ndiaye";5.4
+619;"Badou Ndiaye";5.3
 628;"Campbell";4.5
 201;"King";4.2
 350;"Fabianski";4.7
@@ -581,7 +581,7 @@
 434;"Brunt";5
 435;"Rondón";6
 436;"Robson-Kanu";4.9
-437;"Rodriguez";5.4
+437;"Rodriguez";5.3
 468;"Hegazi";4.7
 507;"Harper";4.5
 508;"Wilson";4
