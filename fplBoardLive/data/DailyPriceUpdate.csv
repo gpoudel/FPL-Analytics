@@ -5,7 +5,7 @@
 4;"Koscielny";6
 5;"Mertesacker";4.7
 6;"Gabriel";5
-7;"Bellerín";6
+7;"Bellerín";5.9
 9;"Jenkinson";4.5
 10;"Monreal";5.5
 11;"Holding";4.4
@@ -31,6 +31,7 @@
 564;"Debuchy";4.5
 595;"Mavropanos";4.3
 616;"Aubameyang";10.4
+634;"Willock";4.5
 29;"Begovic";4.5
 30;"Boruc";4.1
 31;"Federici";4
@@ -40,7 +41,7 @@
 35;"Adam Smith";4.8
 36;"Mings";4.3
 37;"Brad Smith";3.9
-38;"Aké";5
+38;"Aké";5.1
 39;"Arter";4.7
 40;"Pugh";4.7
 41;"Surman";4.4
@@ -109,7 +110,7 @@
 89;"Walters";5.1
 90;"Cork";4.5
 91;"Vokes";5.7
-93;"Barnes";5.2
+93;"Barnes";5.3
 153;"Lennon";5.4
 185;"Wells";4.9
 334;"Bardsley";4.3
@@ -446,7 +447,7 @@
 345;"Sobhi";4.5
 346;"Fletcher";4.8
 347;"Crouch";4.8
-348;"Diouf";5.3
+348;"Diouf";5.2
 349;"Berahino";5.6
 383;"Wimmer";4.1
 497;"Choupo-Moting";5.4
@@ -553,7 +554,7 @@
 501;"Richarlison";6
 527;"Carrillo";5.5
 536;"Karnezis";4.5
-537;"Zeegelaar";4.2
+537;"Zeegelaar";4.1
 581;"Folivi";4.5
 582;"Bachmann";4
 609;"Deulofeu";5.8
