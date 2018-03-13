@@ -48,7 +48,7 @@
 42;"Stanislas";5.9
 43;"Gosling";4.8
 44;"Gradel";5
-45;"Ibe";4.8
+45;"Ibe";4.7
 46;"Lewis Cook";4.3
 47;"Fraser";5.1
 48;"Wilson";5.9
@@ -191,7 +191,7 @@
 620;"Sørloth";5.5
 630;"Kirby";4.5
 633;"Cavalieri";4
-15;"Walcott";7.2
+15;"Walcott";7.1
 135;"Pickford";4.9
 136;"Robles";4.2
 137;"Stekelenburg";4.2
@@ -240,7 +240,7 @@
 175;"Billing";4.4
 176;"Lolley";4.3
 177;"Payne";4.5
-178;"Whitehead";4.3
+178;"Whitehead";4.2
 179;"Bunn";4.5
 180;"Scannell";4.5
 181;"Kachunga";5.7
@@ -421,7 +421,7 @@
 323;"Sims";4.3
 324;"Redmond";5.9
 325;"Long";5.6
-326;"Austin";5.9
+326;"Austin";5.8
 327;"Gabbiadini";6.2
 500;"Lemina";4.8
 506;"Taylor";4
@@ -464,7 +464,7 @@
 628;"Campbell";4.5
 201;"King";4.2
 350;"Fabianski";4.7
-351;"Nordfeldt";4
+351;"Nordfeldt";3.9
 352;"Naughton";4.6
 353;"Rangel";3.9
 354;"Fernández";4.5
@@ -508,7 +508,7 @@
 387;"Eriksen";9.4
 388;"Alli";8.9
 389;"Wanyama";4.8
-390;"Son";8.1
+390;"Son";8.2
 391;"Winks";4.8
 393;"Sissoko";5.3
 394;"Kane";12.9
@@ -557,7 +557,7 @@
 537;"Zeegelaar";4.1
 581;"Folivi";4.5
 582;"Bachmann";4
-609;"Deulofeu";5.8
+609;"Deulofeu";5.7
 613;"Stewart";4.5
 615;"Lukebakio";5
 618;"Ndong";4.5
@@ -595,7 +595,7 @@
 610;"Gabr";4.4
 624;"Jameson";4
 340;"Arnautovic";7
-438;"Adrián";4.4
+438;"Adrián";4.3
 439;"Randolph";4.5
 440;"Fonte";4.7
 441;"Collins";4.3
@@ -628,7 +628,7 @@
 580;"Makasi";4.5
 596;"Burke";4
 597;"Cullen";4.5
-608;"João Mário";6.2
+608;"João Mário";6.1
 611;"Oxford";4.5
 622;"Hugill";5.2
 626;"Evra";4.4
