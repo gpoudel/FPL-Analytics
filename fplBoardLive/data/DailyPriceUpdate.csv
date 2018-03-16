@@ -45,7 +45,7 @@
 39;"Arter";4.7
 40;"Pugh";4.7
 41;"Surman";4.4
-42;"Stanislas";5.9
+42;"Stanislas";6
 43;"Gosling";4.8
 44;"Gradel";5
 45;"Ibe";4.7
@@ -130,7 +130,7 @@
 100;"Alonso";7.2
 101;"David Luiz";5.7
 102;"Moses";6.5
-103;"Rüdiger";5.9
+103;"Rüdiger";5.8
 104;"Hazard";10.6
 105;"Fàbregas";6.8
 106;"Willian";7
@@ -222,7 +222,7 @@
 539;"Vlasic";5.3
 548;"Niasse";4.9
 563;"Baningime";4.5
-592;"Tosun";6.7
+592;"Tosun";6.8
 629;"Garbutt";4
 162;"Coleman";4
 163;"Lössl";4.6
@@ -235,7 +235,7 @@
 170;"Hudson";4
 171;"Zanka";4.5
 172;"Mooy";5.3
-173;"van La Parra";4.8
+173;"van La Parra";4.9
 174;"Hogg";4.4
 175;"Billing";4.4
 176;"Lolley";4.3
@@ -248,7 +248,7 @@
 184;"Williams";4.8
 186;"Quaner";4.6
 187;"Depoitre";5.1
-188;"Mounie";5.8
+188;"Mounie";5.9
 462;"Malone";4.3
 521;"Hadergjonaj";4.5
 522;"Sabiri";4.7
@@ -299,7 +299,7 @@
 227;"Can";4.9
 228;"Lallana";7.3
 229;"Sheyi Ojo";5
-230;"Mané";9.4
+230;"Mané";9.5
 231;"Grujic";4.2
 232;"Wijnaldum";6.6
 233;"Woodburn";4.2
@@ -308,7 +308,7 @@
 237;"Ings";5.4
 238;"Origi";7.4
 239;"Solanke";4.6
-311;"van Dijk";5.6
+311;"van Dijk";5.7
 475;"Robertson";4.9
 514;"Flanagan";4.4
 530;"Ward";4.4
@@ -402,7 +402,7 @@
 529;"Woodman";4
 621;"Dubravka";4.5
 305;"McCarthy";4.4
-306;"Forster";4.7
+306;"Forster";4.6
 307;"Bertrand";5.3
 308;"Yoshida";4.6
 309;"Targett";4.3
