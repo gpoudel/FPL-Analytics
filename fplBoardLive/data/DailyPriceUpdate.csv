@@ -51,7 +51,7 @@
 45;"Ibe";4.7
 46;"Lewis Cook";4.3
 47;"Fraser";5.1
-48;"Wilson";5.9
+48;"Wilson";6
 49;"Afobe";5.7
 50;"Mousset";4.9
 51;"King";7
@@ -304,12 +304,12 @@
 232;"Wijnaldum";6.6
 233;"Woodburn";4.2
 234;"Salah";10.6
-235;"Firmino";9.5
+235;"Firmino";9.6
 237;"Ings";5.4
 238;"Origi";7.4
 239;"Solanke";4.6
 311;"van Dijk";5.7
-475;"Robertson";4.9
+475;"Robertson";5
 514;"Flanagan";4.4
 530;"Ward";4.4
 240;"Ederson";5.6
@@ -344,7 +344,7 @@
 107;"Matic";4.7
 260;"de Gea";5.9
 261;"Romero";4.7
-262;"Joel Pereira";4
+262;"Joel Pereira";3.9
 263;"Smalling";5.4
 264;"Jones";5.5
 265;"Shaw";4.9
@@ -449,7 +449,7 @@
 347;"Crouch";4.8
 348;"Diouf";5.2
 349;"Berahino";5.6
-383;"Wimmer";4.1
+383;"Wimmer";4
 497;"Choupo-Moting";5.4
 512;"Jesé";5.4
 513;"Martins Indi";4.9
@@ -592,9 +592,9 @@
 572;"Melbourne";4
 577;"Tulloch";4.5
 578;"Ferguson";4
-610;"Gabr";4.4
+610;"Gabr";4.3
 624;"Jameson";4
-340;"Arnautovic";7
+340;"Arnautovic";6.9
 438;"Adrián";4.3
 439;"Randolph";4.5
 440;"Fonte";4.7
@@ -630,6 +630,6 @@
 597;"Cullen";4.5
 608;"João Mário";6.1
 611;"Oxford";4.5
-622;"Hugill";5.2
+622;"Hugill";5.1
 626;"Evra";4.4
 631;"Browne";4.5
