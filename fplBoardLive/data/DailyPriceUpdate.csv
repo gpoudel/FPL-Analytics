@@ -7,7 +7,7 @@
 6;"Gabriel";5
 7;"Bellerín";5.9
 9;"Jenkinson";4.5
-10;"Monreal";5.5
+10;"Monreal";5.6
 11;"Holding";4.4
 12;"Mustafi";5.4
 13;"Kolasinac";5.8
@@ -18,11 +18,11 @@
 21;"Iwobi";5.1
 22;"Elneny";4.2
 23;"Xhaka";5.2
-24;"Wilshere";5.2
+24;"Wilshere";5.1
 26;"Welbeck";7.3
 27;"Pérez";7.4
 28;"Lacazette";10.2
-281;"Mkhitaryan";7.7
+281;"Mkhitaryan";7.8
 480;"Chambers";4.7
 489;"Nelson";4.7
 546;"Maitland-Niles";4.5
@@ -30,7 +30,7 @@
 560;"Nketiah";5
 564;"Debuchy";4.5
 595;"Mavropanos";4.3
-616;"Aubameyang";10.6
+616;"Aubameyang";10.7
 634;"Willock";4.5
 29;"Begovic";4.5
 30;"Boruc";4.1
@@ -39,7 +39,7 @@
 33;"Steve Cook";4.6
 34;"Daniels";4.7
 35;"Adam Smith";4.8
-36;"Mings";4.3
+36;"Mings";4.2
 37;"Brad Smith";3.9
 38;"Aké";5.1
 39;"Arter";4.7
@@ -51,7 +51,7 @@
 45;"Ibe";4.7
 46;"Lewis Cook";4.3
 47;"Fraser";5.1
-48;"Wilson";6
+48;"Wilson";5.9
 49;"Afobe";5.7
 50;"Mousset";4.9
 51;"King";7
@@ -63,7 +63,7 @@
 588;"Butcher";4.5
 602;"Taylor";4.5
 53;"Mäenpää";3.9
-54;"Ryan";4.5
+54;"Ryan";4.6
 55;"Dunk";4.5
 56;"Duffy";4.6
 57;"Hünemeier";3.9
@@ -110,12 +110,12 @@
 89;"Walters";5.1
 90;"Cork";4.5
 91;"Vokes";5.7
-93;"Barnes";5.3
+93;"Barnes";5.4
 153;"Lennon";5.4
 185;"Wells";4.9
-334;"Bardsley";4.3
+334;"Bardsley";4.2
 392;"Nkoudou";5.4
-469;"Pope";4.9
+469;"Pope";5
 518;"Wood";6.2
 545;"Legzdins";4
 554;"Lindegaard";4
@@ -172,9 +172,9 @@
 129;"Cabaye";5.3
 130;"Sako";4.8
 131;"Townsend";5.6
-132;"Milivojevic";4.9
+132;"Milivojevic";5
 133;"Wickham";5.4
-134;"Benteke";7.7
+134;"Benteke";7.6
 221;"Sakho";4.6
 269;"Fosu-Mensah";4.4
 482;"Riedewald";4.6
@@ -191,7 +191,7 @@
 620;"Sørloth";5.5
 630;"Kirby";4.5
 633;"Cavalieri";4
-15;"Walcott";7.1
+15;"Walcott";7
 135;"Pickford";4.9
 136;"Robles";4.2
 137;"Stekelenburg";4.2
@@ -202,7 +202,7 @@
 142;"Funes Mori";4.9
 143;"Williams";5.2
 144;"Holgate";4.1
-145;"Kenny";4.2
+145;"Kenny";4.1
 146;"Keane";5.3
 147;"Bolasie";6.4
 148;"Mirallas";6
@@ -222,7 +222,7 @@
 539;"Vlasic";5.3
 548;"Niasse";4.8
 563;"Baningime";4.5
-592;"Tosun";6.8
+592;"Tosun";6.9
 629;"Garbutt";4
 162;"Coleman";4
 163;"Lössl";4.6
@@ -235,7 +235,7 @@
 170;"Hudson";4
 171;"Zanka";4.5
 172;"Mooy";5.3
-173;"van La Parra";4.9
+173;"van La Parra";4.8
 174;"Hogg";4.4
 175;"Billing";4.4
 176;"Lolley";4.3
@@ -248,7 +248,7 @@
 184;"Williams";4.8
 186;"Quaner";4.6
 187;"Depoitre";5.1
-188;"Mounie";5.9
+188;"Mounie";5.8
 462;"Malone";4.3
 521;"Hadergjonaj";4.5
 522;"Sabiri";4.7
@@ -272,7 +272,7 @@
 206;"Ndidi";4.9
 207;"Musa";6.1
 208;"Iborra";5.7
-209;"Vardy";8.8
+209;"Vardy";8.9
 211;"Okazaki";5.3
 258;"Iheanacho";6.5
 473;"Jakupovic";4.2
@@ -319,7 +319,7 @@
 244;"Kompany";5.8
 245;"Otamendi";6.4
 246;"Delph";4.5
-247;"Sterling";8.6
+247;"Sterling";8.7
 248;"David Silva";8.1
 249;"Yaya Touré";6
 250;"Fernandinho";5
@@ -345,7 +345,7 @@
 260;"de Gea";5.9
 261;"Romero";4.7
 262;"Joel Pereira";3.9
-263;"Smalling";5.4
+263;"Smalling";5.5
 264;"Jones";5.5
 265;"Shaw";4.9
 266;"Rojo";5.4
@@ -358,14 +358,14 @@
 274;"Mata";6.8
 275;"Fellaini";4.7
 276;"Carrick";4.2
-277;"Young";4.9
+277;"Young";4.8
 278;"Herrera";5
 279;"Lingard";6
 280;"Martial";7.9
 282;"Pogba";7.8
 283;"McTominay";4.2
 284;"Rashford";7.4
-285;"Lukaku";11.4
+285;"Lukaku";11.6
 476;"Pereira";4.9
 523;"Ibrahimovic";9.5
 110;"Kenedy";4.8
@@ -396,7 +396,7 @@
 478;"Murphy";5
 488;"Joselu";5.5
 494;"Mbemba";4
-495;"Merino";5
+495;"Merino";4.9
 496;"Hayden";4.4
 516;"Saivet";4.4
 529;"Woodman";4
@@ -412,10 +412,10 @@
 314;"McQueen";4.2
 315;"Bednarek";4.1
 316;"Davis";4.7
-317;"Ward-Prowse";5.1
+317;"Ward-Prowse";5
 318;"Tadic";6.2
 319;"Clasie";4.4
-320;"Oriol Romeu";4.3
+320;"Oriol Romeu";4.2
 321;"Højbjerg";4.3
 322;"Boufal";5.7
 323;"Sims";4.3
@@ -441,7 +441,7 @@
 338;"Adam";4.7
 339;"Whelan";4.5
 341;"Afellay";4.8
-342;"Shaqiri";6.4
+342;"Shaqiri";6.3
 343;"Imbula";4.5
 344;"Bojan";5.5
 345;"Sobhi";4.5
@@ -460,8 +460,9 @@
 590;"Ireland";4.5
 594;"Bauer";4.5
 599;"Stafylidis";4.4
-619;"Badou Ndiaye";5.3
+619;"Badou Ndiaye";5.2
 628;"Campbell";4.5
+637;"Sorenson";4.5
 201;"King";4.2
 350;"Fabianski";4.7
 351;"Nordfeldt";3.9
@@ -557,9 +558,9 @@
 537;"Zeegelaar";4.1
 581;"Folivi";4.5
 582;"Bachmann";4
-609;"Deulofeu";5.7
+609;"Deulofeu";5.6
 613;"Stewart";4.5
-615;"Lukebakio";5
+615;"Lukebakio";4.9
 618;"Ndong";4.5
 625;"Mukena";4
 8;"Gibbs";5
@@ -567,7 +568,7 @@
 236;"Sturridge";7.9
 420;"Myhill";4
 421;"Foster";4.4
-422;"Nyom";4.8
+422;"Nyom";4.7
 423;"Evans";4.9
 424;"Dawson";4.8
 425;"McAuley";4.5
@@ -601,7 +602,7 @@
 441;"Collins";4.3
 442;"Reid";4.8
 443;"Cresswell";5
-444;"Ogbonna";4.3
+444;"Ogbonna";4.2
 445;"Byram";4.2
 446;"Masuaku";4.2
 447;"Zabaleta";4.9
@@ -623,13 +624,15 @@
 526;"Haksabanovic";5
 567;"Martínez";5
 568;"Quina";4.4
-573;"Johnson";4.5
+573;"Johnson";4.4
 574;"Trott";4
 580;"Makasi";4.5
 596;"Burke";4
 597;"Cullen";4.5
-608;"João Mário";6.1
+608;"João Mário";6
 611;"Oxford";4.5
 622;"Hugill";5.1
-626;"Evra";4.4
+626;"Evra";4.3
 631;"Browne";4.5
+635;"Pask";4
+636;"Diangana";4.5
