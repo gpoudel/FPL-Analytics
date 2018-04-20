@@ -1,21 +1,21 @@
 "id";"Player";"Status";"PlayingChance";"SelectedBy"
-"1";1;"Ospina";"Injured";"0";0
-"2";17;"Cazorla";"Injured";"0";0
-"3";18;"Ramsey";"Doubtful";"75";3
-"4";281;"Mkhitaryan";"Injured";"0";7
-"5";35;"Adam Smith";"Injured";"0";0
-"6";36;"Mings";"Injured";"0";0
-"7";42;"Stanislas";"Injured";"0";0
-"8";65;"Sidwell";"Injured";"0";0
-"9";67;"Skalak";"Injured";"0";0
-"10";481;"Brown";"Injured";"0";0
-"11";490;"Pröpper";"Suspended";"0";0
-"12";77;"Mee";"Injured";"0";10
-"13";82;"Arfield";"Injured";"0";0
-"14";85;"Defour";"Injured";"0";0
-"15";87;"Brady";"Injured";"0";0
-"16";89;"Walters";"Injured";"0";0
-"17";392;"Nkoudou";"Doubtful";"75";0
+"1";17;"Cazorla";"Injured";"0";0
+"2";24;"Wilshere";"Doubtful";"75";0
+"3";281;"Mkhitaryan";"Injured";"0";7
+"4";35;"Adam Smith";"Injured";"0";0
+"5";36;"Mings";"Injured";"0";0
+"6";42;"Stanislas";"Injured";"0";0
+"7";65;"Sidwell";"Injured";"0";0
+"8";67;"Skalak";"Injured";"0";0
+"9";481;"Brown";"Injured";"0";0
+"10";490;"Pröpper";"Suspended";"0";0
+"11";77;"Mee";"Injured";"0";9
+"12";82;"Arfield";"Injured";"0";0
+"13";85;"Defour";"Injured";"0";0
+"14";87;"Brady";"Injured";"0";0
+"15";89;"Walters";"Injured";"0";0
+"16";392;"Nkoudou";"Doubtful";"75";0
+"17";100;"Alonso";"Suspended";"0";18
 "18";101;"David Luiz";"Injured";"0";8
 "19";558;"Ampadu";"Injured";"0";0
 "20";118;"Dann";"Injured";"0";0
@@ -56,7 +56,7 @@
 "55";599;"Stafylidis";"Doubtful";"25";0
 "56";353;"Rangel";"Doubtful";"75";7
 "57";365;"Fer";"Injured";"0";0
-"58";369;"Narsingh";"Doubtful";"75";0
+"58";369;"Narsingh";"Injured";"0";0
 "59";519;"Clucas";"Doubtful";"75";0
 "60";535;"Sanches";"Injured";"0";0
 "61";542;"Bony";"Injured";"0";0

@@ -51,7 +51,7 @@
 45;"Ibe";4.7
 46;"Lewis Cook";4.3
 47;"Fraser";5.1
-48;"Wilson";5.8
+48;"Wilson";5.7
 49;"Afobe";5.7
 50;"Mousset";4.9
 51;"King";7
@@ -81,7 +81,7 @@
 69;"Murphy";4.7
 70;"Groß";6
 71;"Murray";6
-72;"Hemed";4.7
+72;"Hemed";4.6
 73;"Baldock";4.9
 210;"Ulloa";4.8
 461;"Suttner";4.2
@@ -155,7 +155,7 @@
 614;"Emerson";5.2
 632;"Chalobah";4
 108;"Loftus-Cheek";4.4
-115;"Hennessey";4.3
+115;"Hennessey";4.4
 116;"Speroni";4
 117;"Tomkins";4.3
 118;"Dann";4.6
@@ -225,7 +225,7 @@
 563;"Baningime";4.5
 592;"Tosun";6.8
 629;"Garbutt";4
-162;"Coleman";4
+162;"Coleman";3.9
 163;"Lössl";4.6
 164;"Schindler";4.6
 165;"Löwe";4.4
@@ -305,7 +305,7 @@
 231;"Grujic";4.2
 232;"Wijnaldum";6.6
 233;"Woodburn";4.2
-234;"Salah";10.5
+234;"Salah";10.6
 235;"Firmino";9.4
 237;"Ings";5.4
 238;"Origi";7.4
@@ -324,7 +324,7 @@
 244;"Kompany";5.8
 245;"Otamendi";6.3
 246;"Delph";4.5
-247;"Sterling";8.7
+247;"Sterling";8.8
 248;"David Silva";8.2
 249;"Yaya Touré";6
 250;"Fernandinho";5
@@ -335,7 +335,7 @@
 255;"Sané";8.5
 256;"Bernardo Silva";7.2
 257;"Agüero";11.6
-259;"Jesus";10
+259;"Jesus";10.1
 379;"Walker";6.6
 483;"Danilo";5
 484;"Mendy";6.3
@@ -570,7 +570,7 @@
 618;"Ndong";4.5
 625;"Mukena";4
 8;"Gibbs";5
-151;"Barry";4.5
+151;"Barry";4.4
 236;"Sturridge";7.9
 420;"Myhill";4
 421;"Foster";4.3
