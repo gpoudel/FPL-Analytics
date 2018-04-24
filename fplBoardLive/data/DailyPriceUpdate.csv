@@ -41,7 +41,7 @@
 35;"Adam Smith";4.8
 36;"Mings";4.2
 37;"Brad Smith";3.9
-38;"Aké";5.1
+38;"Aké";5
 39;"Arter";4.7
 40;"Pugh";4.7
 41;"Surman";4.3
@@ -317,14 +317,14 @@
 639;"Masterson";4
 640;"Jones";4.5
 641;"Camacho";4.5
-240;"Ederson";5.6
+240;"Ederson";5.7
 241;"Bravo";4.5
 242;"Stones";5.3
 243;"Kolarov";5.5
 244;"Kompany";5.9
 245;"Otamendi";6.4
 246;"Delph";4.5
-247;"Sterling";8.9
+247;"Sterling";9
 248;"David Silva";8.2
 249;"Yaya Touré";6
 250;"Fernandinho";5
@@ -335,7 +335,7 @@
 255;"Sané";8.6
 256;"Bernardo Silva";7.2
 257;"Agüero";11.5
-259;"Jesus";10.2
+259;"Jesus";10.3
 379;"Walker";6.6
 483;"Danilo";5
 484;"Mendy";6.3
