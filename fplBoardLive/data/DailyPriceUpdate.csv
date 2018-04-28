@@ -110,7 +110,7 @@
 89;"Walters";5.1
 90;"Cork";4.5
 91;"Vokes";5.7
-93;"Barnes";5.4
+93;"Barnes";5.5
 153;"Lennon";5.4
 185;"Wells";4.9
 334;"Bardsley";4.1
@@ -172,7 +172,7 @@
 129;"Cabaye";5.3
 130;"Sako";4.8
 131;"Townsend";5.6
-132;"Milivojevic";5.2
+132;"Milivojevic";5.3
 133;"Wickham";5.4
 134;"Benteke";7.5
 221;"Sakho";4.6
@@ -186,7 +186,7 @@
 552;"Mutch";4.5
 555;"Henry";4
 579;"Wan-Bissaka";4.5
-605;"Jach";4.3
+605;"Jach";4.2
 606;"Rakip";4.8
 620;"Sørloth";5.5
 630;"Kirby";4.5
@@ -248,7 +248,7 @@
 182;"Ince";5.5
 184;"Williams";4.8
 186;"Quaner";4.5
-187;"Depoitre";5.1
+187;"Depoitre";5
 188;"Mounie";5.5
 462;"Malone";4.3
 521;"Hadergjonaj";4.5
@@ -265,7 +265,7 @@
 195;"Benalouane";4.2
 196;"Chilwell";4.4
 198;"Maguire";5.6
-199;"Mahrez";8.9
+199;"Mahrez";8.8
 200;"Albrighton";5.5
 203;"Gray";5.3
 204;"Amartey";4.3
@@ -325,7 +325,7 @@
 245;"Otamendi";6.4
 246;"Delph";4.5
 247;"Sterling";9
-248;"David Silva";8.2
+248;"David Silva";8.3
 249;"Yaya Touré";6
 250;"Fernandinho";5
 251;"Fernando";4.5
@@ -379,7 +379,7 @@
 287;"Darlow";4.3
 288;"Yedlin";4.5
 289;"Clark";4.3
-290;"Lascelles";4.8
+290;"Lascelles";4.9
 291;"Dummett";4.2
 292;"Hanley";4
 293;"Gámez";3.9
@@ -453,7 +453,7 @@
 346;"Fletcher";4.7
 347;"Crouch";4.8
 348;"Diouf";5.2
-349;"Berahino";5.6
+349;"Berahino";5.5
 383;"Wimmer";4
 497;"Choupo-Moting";5.3
 512;"Jesé";5.4
@@ -511,13 +511,13 @@
 384;"Dier";4.7
 385;"Dembélé";4.9
 386;"Lamela";6.3
-387;"Eriksen";9.5
+387;"Eriksen";9.6
 388;"Alli";9
 389;"Wanyama";4.8
 390;"Son";8.3
 391;"Winks";4.8
 393;"Sissoko";5.3
-394;"Kane";12.9
+394;"Kane";13
 395;"Janssen";7.4
 498;"Walker-Peters";4
 511;"Carter-Vickers";4.5
@@ -637,7 +637,7 @@
 597;"Cullen";4.5
 608;"João Mário";6
 611;"Oxford";4.5
-622;"Hugill";5
+622;"Hugill";4.9
 626;"Evra";4.2
 631;"Browne";4.5
 635;"Pask";4
