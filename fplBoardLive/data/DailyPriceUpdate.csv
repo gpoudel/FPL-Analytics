@@ -161,19 +161,19 @@
 117;"Tomkins";4.4
 118;"Dann";4.6
 119;"Ward";4.7
-120;"Kelly";4.2
+120;"Kelly";4.1
 121;"Delaney";4.2
 122;"Souaré";4.5
 123;"Schlupp";4.7
 124;"van Aanholt";5.1
 125;"Puncheon";4.4
 126;"Zaha";7
-127;"McArthur";4.3
+127;"McArthur";4.4
 128;"Lee Chung-yong";4.2
 129;"Cabaye";5.3
 130;"Sako";4.8
 131;"Townsend";5.6
-132;"Milivojevic";5.3
+132;"Milivojevic";5.2
 133;"Wickham";5.4
 134;"Benteke";7.5
 221;"Sakho";4.6
@@ -189,7 +189,7 @@
 579;"Wan-Bissaka";4.5
 605;"Jach";4.2
 606;"Rakip";4.8
-620;"Sørloth";5.5
+620;"Sørloth";5.4
 630;"Kirby";4.5
 633;"Cavalieri";4
 638;"Daly";4.5
@@ -215,16 +215,16 @@
 156;"Davies";5.1
 157;"Lookman";5.1
 158;"Klaassen";6.9
-159;"Calvert-Lewin";5
+159;"Calvert-Lewin";4.9
 160;"Sandro";7
 161;"Rooney";7.1
 359;"Sigurdsson";8
-464;"Martina";4.2
+464;"Martina";4.1
 502;"Mangala";5
 539;"Vlasic";5.3
 548;"Niasse";4.6
 563;"Baningime";4.5
-592;"Tosun";6.8
+592;"Tosun";6.7
 629;"Garbutt";4
 162;"Coleman";3.9
 163;"Lössl";4.6
@@ -285,7 +285,7 @@
 589;"Silva";5.9
 601;"Diabaté";4.9
 642;"Barnes";4.5
-19;"Chamberlain";5.6
+19;"Chamberlain";5.5
 213;"Mignolet";4.7
 214;"Karius";4.9
 215;"Lovren";5.3
@@ -306,13 +306,13 @@
 231;"Grujic";4.2
 232;"Wijnaldum";6.6
 233;"Woodburn";4.2
-234;"Salah";10.5
-235;"Firmino";9.5
+234;"Salah";10.4
+235;"Firmino";9.4
 237;"Ings";5.4
 238;"Origi";7.4
 239;"Solanke";4.6
 311;"van Dijk";5.7
-475;"Robertson";5.1
+475;"Robertson";5
 514;"Flanagan";4.4
 530;"Ward";4.4
 639;"Masterson";4
@@ -447,7 +447,7 @@
 338;"Adam";4.7
 339;"Whelan";4.5
 341;"Afellay";4.8
-342;"Shaqiri";6.2
+342;"Shaqiri";6.1
 343;"Imbula";4.5
 344;"Bojan";5.5
 345;"Sobhi";4.5
@@ -491,7 +491,7 @@
 369;"Narsingh";4.7
 370;"Mesa";4.2
 372;"McBurnie";4.6
-373;"Jordan Ayew";5.3
+373;"Jordan Ayew";5.4
 374;"Abraham";5.4
 449;"André Ayew";6.8
 485;"Bartley";4.3
@@ -502,17 +502,17 @@
 576;"Mulder";4
 598;"Roberts";4
 371;"Llorente";7.3
-375;"Lloris";5.4
+375;"Lloris";5.5
 376;"Vorm";4.8
 377;"Alderweireld";5.8
 378;"Rose";6.4
-380;"Vertonghen";6
+380;"Vertonghen";6.1
 381;"Davies";5.8
 382;"Trippier";5.2
 384;"Dier";4.7
 385;"Dembélé";4.9
 386;"Lamela";6.3
-387;"Eriksen";9.6
+387;"Eriksen";9.7
 388;"Alli";9
 389;"Wanyama";4.8
 390;"Son";8.3
@@ -602,7 +602,7 @@
 578;"Ferguson";4
 610;"Gabr";4.2
 624;"Jameson";4
-340;"Arnautovic";7
+340;"Arnautovic";7.1
 438;"Adrián";4
 439;"Randolph";4.5
 440;"Fonte";4.7
