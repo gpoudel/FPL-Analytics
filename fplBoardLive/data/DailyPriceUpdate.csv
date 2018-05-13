@@ -9,7 +9,7 @@
 9;"Jenkinson";4.5
 10;"Monreal";5.7
 11;"Holding";4.4
-12;"Mustafi";5.5
+12;"Mustafi";5.4
 13;"Kolasinac";5.8
 16;"Özil";9.3
 17;"Cazorla";6.9
@@ -30,7 +30,7 @@
 560;"Nketiah";5
 564;"Debuchy";4.5
 595;"Mavropanos";4.2
-616;"Aubameyang";10.7
+616;"Aubameyang";10.8
 634;"Willock";4.5
 644;"Osei-Tutu";4
 29;"Begovic";4.5
@@ -111,7 +111,7 @@
 89;"Walters";5.1
 90;"Cork";4.5
 91;"Vokes";5.7
-93;"Barnes";5.4
+93;"Barnes";5.3
 153;"Lennon";5.4
 185;"Wells";4.9
 334;"Bardsley";4
@@ -122,7 +122,7 @@
 554;"Lindegaard";4
 575;"Ulvestad";4.4
 623;"O'Neill";4.5
-25;"Giroud";8.3
+25;"Giroud";8.4
 94;"Courtois";5.3
 95;"Eduardo";4.7
 96;"Caballero";4.8
@@ -193,7 +193,7 @@
 630;"Kirby";4.5
 633;"Cavalieri";4
 638;"Daly";4.5
-15;"Walcott";6.7
+15;"Walcott";6.6
 135;"Pickford";4.9
 136;"Robles";4.2
 137;"Stekelenburg";4.2
@@ -307,8 +307,8 @@
 231;"Grujic";4.2
 232;"Wijnaldum";6.6
 233;"Woodburn";4.2
-234;"Salah";10.5
-235;"Firmino";9.4
+234;"Salah";10.6
+235;"Firmino";9.5
 237;"Ings";5.4
 238;"Origi";7.4
 239;"Solanke";4.6
@@ -327,14 +327,14 @@
 245;"Otamendi";6.4
 246;"Delph";4.5
 247;"Sterling";9.1
-248;"David Silva";8.3
+248;"David Silva";8.2
 249;"Yaya Touré";6
 250;"Fernandinho";5
 251;"Fernando";4.5
 252;"De Bruyne";10.3
 253;"Gündogan";5.4
 254;"Nolito";7
-255;"Sané";8.6
+255;"Sané";8.7
 256;"Bernardo Silva";7.2
 257;"Agüero";11.5
 259;"Jesus";10.4
@@ -393,7 +393,7 @@
 299;"Colback";4.2
 300;"Atsu";4.8
 301;"Gayle";6.1
-302;"Pérez";5.4
+302;"Pérez";5.5
 303;"Mitrovic";4.7
 304;"Murphy";4.5
 465;"Haidara";3.9
@@ -591,7 +591,7 @@
 434;"Brunt";5
 435;"Rondón";6
 436;"Robson-Kanu";4.9
-437;"Rodriguez";5.3
+437;"Rodriguez";5.4
 468;"Hegazi";4.6
 507;"Harper";4.5
 508;"Wilson";4
