@@ -1,10 +1,10 @@
 
 # fplAnalytics
-www.fplAnalytics.com
+https://www.fplanalytics.com/
 
 
 ## Intorduction
-www.fplanalytics.com is a hobbyist website for the lovers of the Fantasy Premier League (https://fantasy.premierleague.com/) - a fantasy football game based on English Premier League. It uses the official APIs from the site for data inputs and processes them for fantasy managers to analyze for greater insights. Other than daily updates of price rise/fall and injuries/suspensions/fitness of the players. There are many data tables, charts and visualizations to help the fantasy managers to make a better picks based on info and stats.
+https://www.fplanalytics.com/ is a hobbyist website for the lovers of the Fantasy Premier League (https://fantasy.premierleague.com/) - a fantasy football game based on English Premier League. It uses the official APIs from the site for data inputs and processes them for fantasy managers to analyze for greater insights. Other than daily updates of price rise/fall and injuries/suspensions/fitness of the players. There are many data tables, charts and visualizations to help the fantasy managers to make a better picks based on info and stats.
 
 ## Description
 The main operations/tasks needed to build and keep this site alive are:
@@ -21,7 +21,7 @@ Other than mentioned above, the frontend is created using **HTML, CSS, Bootstrap
 
 
 ## Examples
-Here are some of the examples from the main site (www.fplAnalytics.com)
+Here are some of the examples from the main site (https://www.fplanalytics.com/)
 * [Player Status Table](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/PlayerStatus.html) (Interactive Data Table)
 * [Transfer Anomaly detection](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/TransferAnomaly.html) (Interactive Data Viz.)
 * [Points distribution Treemap](https://gpoudel.github.io/gitFPL/fplBoardLive/2016/playerPtsTreemap.html) (Multilayered interactive treemap)
